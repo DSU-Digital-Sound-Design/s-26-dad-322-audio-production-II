@@ -151,14 +151,19 @@ date: "2025-1-13"
 ## Monday
 
 - Listen to some of your mixes and critique them.
+
+
+
+## Wednesday
+
 - [Compressing for a reason](../posts/week-5/compression/)
   - Pick some tracks in the mix and experiment with compression settings.
 - Some listening: [Chapter 9: Compressing For A Reason](https://cambridge-mt.com/ms/ch9/)
 - [Compression Lab](../posts/week-6/compression-lab/) 
-  - Turn in the results by Friday. 
+  - Turn in the results by Monday. 
 
 
-## Wednesday
+## Friday
 
 - Limiting
   - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
@@ -166,12 +171,6 @@ date: "2025-1-13"
   - [pres](../posts/week-6/beyond-compression/)
   - [example](../posts/week-6/beyond-compression/comp-ex/)
   - And other plugins: [Chapter 10: Beyond Compression](https://cambridge-mt.com/ms/ch10/)
-
-
-## Friday
-
-- Finish listening and critiquing mixes
-
 <!-- 
 # Week 8 (3/3)
 
