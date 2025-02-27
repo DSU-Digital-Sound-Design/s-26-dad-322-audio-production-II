@@ -159,27 +159,25 @@ date: "2025-1-13"
 - [Compressing for a reason](../posts/week-5/compression/)
   - Pick some tracks in the mix and experiment with compression settings.
 - Some listening: [Chapter 9: Compressing For A Reason](https://cambridge-mt.com/ms/ch9/)
-- [Compression Lab](../posts/week-6/compression-lab/) 
-  - Turn in the results by Monday. 
 
 
 ## Friday
 
+- [Compression Lab](../posts/week-6/compression-lab/) 
+  - Turn in the results by Monday. 
 - Limiting
   - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
-- Beyond compression: 
-  - [pres](../posts/week-6/beyond-compression/)
-  - [example](../posts/week-6/beyond-compression/comp-ex/)
-  - And other plugins: [Chapter 10: Beyond Compression](https://cambridge-mt.com/ms/ch10/)
+
 <!-- 
 # Week 8 (3/3)
 
 ## Monday 
 
-- Drums 
-  - more percussion and other recordings
-- Electric guitar
-- Review drum editing with new drums 
+- Beyond compression: 
+  - [pres](../posts/week-6/beyond-compression/)
+  - [example](../posts/week-6/beyond-compression/comp-ex/)
+  - And other plugins: [Chapter 10: Beyond Compression](https://cambridge-mt.com/ms/ch10/)
+
 
 ## Wednesday
 

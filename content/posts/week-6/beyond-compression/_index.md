@@ -9,6 +9,8 @@ margin = 0.2
 ## Expansion and Gating 
 
 - Expansion increases dynamic range by lowering quiet sounds
+  - Downward expansion reduces background noise and spill
+  - Upward expansion enhances transients and attack
 - Common uses: Reducing background noise and spill in recordings
 - An expander's interface includes Threshold and Ratio controls
 - Use of expansion and gating for balance and signal quality
