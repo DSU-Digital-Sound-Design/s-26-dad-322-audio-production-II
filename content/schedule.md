@@ -163,12 +163,12 @@ date: "2025-1-13"
 
 ## Friday
 
+- Looking at a few freeware compressors
 - [Compression Lab](../posts/week-6/compression-lab/) 
   - Turn in the results by Monday. 
 - Limiting
   - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
 
-<!-- 
 # Week 8 (3/3)
 
 ## Monday 
@@ -178,6 +178,7 @@ date: "2025-1-13"
   - [example](../posts/week-6/beyond-compression/comp-ex/)
   - And other plugins: [Chapter 10: Beyond Compression](https://cambridge-mt.com/ms/ch10/)
 
+<!-- 
 
 ## Wednesday
 
