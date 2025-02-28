@@ -164,10 +164,11 @@ date: "2025-1-13"
 ## Friday
 
 - Looking at a few freeware compressors
+- Buss compression - "Glue Compressor"
+  - [Buss Compression](../posts/week-6/buss-compression/)
 - [Compression Lab](../posts/week-6/compression-lab/) 
   - Turn in the results by Monday. 
-- Limiting
-  - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
+- Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
 
 # Week 8 (3/3)
 
