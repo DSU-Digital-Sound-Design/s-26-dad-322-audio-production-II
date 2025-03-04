@@ -179,13 +179,14 @@ date: "2025-1-13"
   - [example](../posts/week-6/beyond-compression/comp-ex/)
   - And other plugins: [Chapter 10: Beyond Compression](https://cambridge-mt.com/ms/ch10/)
 
-<!-- 
 
 ## Wednesday
 
-- Last percussion day 
-- Cover again the drum editing 
+- Two options:
+  - Final recording on class song 
+  - Work on a mix as a class using techniques we've learned so far. 
 
+<!-- 
 ## Friday
 
 - [EQ Slides](../posts/week-8/EQ_slides.pdf)
