@@ -186,7 +186,6 @@ date: "2025-1-13"
   - Final recording on class song 
   - Work on a mix as a class using techniques we've learned so far. 
 
-<!-- 
 ## Friday
 
 - [EQ Slides](../posts/week-8/EQ_slides.pdf)
@@ -194,6 +193,7 @@ date: "2025-1-13"
 
 > [Editing 2 - Equalization](../assignments/eq-lab/) - start in class
 
+<!-- 
 
 # Week 9 (3/10)
 
