@@ -189,6 +189,7 @@ date: "2025-1-13"
 ## Friday
 
 - [EQ Slides](../posts/week-8/EQ_slides.pdf)
+- Listening to [EQ examples](https://cambridge-mt.com/ms/ch11/)
 - [Using EQ](../posts/week-8/using-eq/)
 
 > [Editing 2 - Equalization](../assignments/eq-lab/) - start in class

@@ -8,7 +8,7 @@ margin = 0.2
 
 ## The Critical Role of Equalization in Mixing
 
-- The necessity of extending the frequency range during mixing
+- Extending the frequency range during mixing
 - Equalizers as the primary tool for achieving sonic enhancements
 - The importance of a natural sound and the means to achieve it
 - Experienced mixers' approach to EQ usage
@@ -16,6 +16,7 @@ margin = 0.2
 {{% note %}}
 
 - Extending the frequency range of tracks in mixing compensates for limitations from the recording phase, due to various factors like recording environment and instrument sound.
+  - Frequency Range Great mixers make sure that all audible frequencies are represented. The "tall" dimension in mixing refers to ensuring all frequencies are properly represented, especially the sparkly highs and powerful lows
 - Equalizers are pivotal in making tracks sound bigger, fatter, brighter, and clearer. Their effective use differentiates skilled mixers from novices.
 - Allen Sides emphasizes the goal of achieving a natural sound, regardless of the unconventional methods required, highlighting the significance of a trustworthy reference point.
 - Joe Chiccarelli’s statement reflects a minimalist approach to EQ, where less is often more, yet not hesitating to make bold adjustments when necessary.
@@ -90,6 +91,21 @@ margin = 0.2
 4. Slowly bring up the mud-inducing bottom end enough to move air, but not so much as to make the sound muddy.
 5. Add some high-frequency EQ for definition (see Figure 7.2).
 
+{{% note %}}
+
+- **Subtractive EQ**: Cut boxiness (400-800Hz) or enhance clarity (3-6kHz)
+- **Quick fixes**: Cut at 250Hz for muddiness, 500Hz for honkiness
+- **Definition**: Emphasize 2-5kHz for distinctness
+- **Presence**: Boost 5-10kHz for presence
+- **Strategic cutting**: Remove inessential frequencies, create "holes" for vocals
+- **Technical solutions**: Position EQ in signal chain relative to compression based on dynamics needs
+- **De-essing**: Control sibilance (s, sh, z, zh sounds)
+- **Transient processing**: Distinguishable transients improve instrument separation
+
+The fundamental approach emphasizes cutting over boosting and strategic removal of problematic frequencies rather than additive solutions.
+
+{{%/ note %}}
+
 ---
 
 ![](fig3.png)
@@ -104,6 +120,18 @@ margin = 0.2
 3. Adjust the amount of Boost to taste. Be aware that too much Boost will make the sound muddy.
 4. Go to the frequency either half or twice the frequency that you used in Step 2 and add an amount of that frequency as well. Example: If your frequency in Step 2 was 120Hz, go to 60Hz and add a dB or so as well. If your frequency was 50Hz, go to 100Hz and add a bit there (see Figure 7.3).
 
+{{% note %}}
+To equalize for size:
+
+- **Add bass (40-250Hz)** to create larger-than-life sounds, focusing around 100Hz
+- **Sweep technique**: Boost 8-10dB in low frequencies and find the ideal fullness point
+- **Create space** for bass instruments by keeping other elements from competing in their fundamental range
+- **Differentiate kick and bass** with contrasting EQ treatments to maintain clarity
+- **Manage low-end density** based on pattern complexity - less "woof" for busy patterns, more for spacious ones
+- **Use reverb/delay** to increase perceived size of both individual instruments and the entire mix
+
+{{%/ note %}}
+
 ---
 
 
@@ -116,11 +144,26 @@ margin = 0.2
 
 {{% note %}}
 
-- Soloing instruments for EQ adjustments can lead to a mix where elements compete rather than complement each other, due to each being optimized in isolation to sound "bigger and brighter."
-- A foundational technique involves starting with the bass and drums, adjusting EQ settings to ensure clarity and distinction between these elements, particularly focusing on not boosting the same frequencies for both.
-- When adding vocals and other instruments, the principle of frequency juggling continues: avoid overlapping EQ boosts and consider reciprocal cuts and boosts to maintain each element's distinct space in the mix.
-- The gradual integration of each mix element, with continuous comparison and adjustment against the already established mix, ensures a cohesive sound where each instrument is clearly defined and well-integrated, without frequency conflicts.
+# Frequency Juggling for Instrument Clarity
 
+- **Rhythm section foundation**
+  - Start with kick/bass relationship
+  - Ensure kick has punch (80-100Hz) while bass has depth (40-80Hz)
+  - Create separate spaces for snare (200-400Hz for body, 3-5kHz for snap)
+
+- **Instrument frequency assignments**
+  - Bass: 40-200Hz fundamental, 700-1kHz for attack
+  - Kick: 60-100Hz for thump, 2-4kHz for beater click
+  - Snare: 200Hz for body, 3-5kHz for crack
+  - Guitar: 300-500Hz for body, 1.5-3kHz for presence
+  - Piano: 80-300Hz for low notes, 1-2kHz for clarity
+  - Vocals: 100-300Hz for warmth, 2-5kHz for intelligibility
+
+- **Practical techniques**
+  - Create 3dB dips in competing instruments where another needs to shine
+  - Boost instruments in different octaves (e.g., guitar at 1.5kHz, vocals at 3kHz)
+  - Use narrow Q settings for surgical cuts, wider for natural boosts
+  - Check mono compatibility to ensure frequency separation works in all playback systems
 {{%/ note %}}
 
 ---
@@ -135,29 +178,30 @@ margin = 0.2
 
 {{% note %}}
 
-- To combat a muddy sound in your mix, a reduction around 250Hz can clear up the low-end, providing a cleaner overall sound.
-- Addressing honkiness or nasality often involves attenuating frequencies around 500Hz, which can significantly improve midrange clarity.
-- A general principle in EQ is to cut frequencies to improve the sound's quality, ensuring a more natural and defined mix without unnecessary coloration.
-- Boosting should be reserved for when you aim to alter or emphasize a specific character within the sound, recognizing that EQ cannot introduce elements not originally present in the recording.
-- The effectiveness of boosting is inherently limited by the source material; you cannot amplify elements that do not exist in the frequency spectrum of the original audio.
+# EQ Golden Rules
 
+- **Cut at 250Hz** to reduce muddiness
+- **Cut at 500Hz** to eliminate honkiness
+- **Cut to improve sound quality**, boost to change character
+- **Can't boost what isn't there** in the original recording
+
+## Technical Approach
+- Use **narrow Q for cuts** (surgical precision)
+- Use **wide Q for boosts** (natural enhancement)
+- Apply **high-pass filters** to most tracks to clean low end
+- **EQ order matters**: before dynamics if compressor response needs improvement
+
+## Problem Frequency Zones
+- **200Hz** - muddiness/boominess
+- **300-500Hz** - boxiness
+- **400-800Hz** - excess can mask definition
+- **4-6kHz** - lack creates undefined sound
+
+## Bass/Kick Relationship
+- **Kick**: 60-80Hz for thump, 60-120Hz for small speaker audibility, 1-4kHz for attack
+- **Bass**: 80-250Hz for presence, allowing kick to dominate below
 {{%/ note %}}
 
----
-
-## Identifying and Attenuating Problematic Frequencies
-
-- Boosting to identify protruding frequencies
-- Sweeping through frequencies to locate issues
-- Fine-tuning attenuation for balanced sound
-
-{{% note %}}
-
-- Initiating the process with a moderate boost helps in making the problematic frequency more perceptible, thus easier to identify within the mix.
-- Carefully sweeping through the frequency spectrum allows for the isolation of the specific frequency that is causing discomfort or imbalance in the sound.
-- Once identified, the precise adjustment of the cut is crucial to ensure that the problematic frequency is adequately attenuated without adversely affecting the overall sound quality or definition.
-
-{{%/ note %}}
 
 ---
 
@@ -189,20 +233,40 @@ margin = 0.2
 
 ## Balancing Bass and Drums for a Punchy Mix
 
-- Creating space for bass and kick to avoid muddiness
-- EQ strategies for kick and bass distinction
-- Importance of snare strength and clarity
-- Managing low-end clutter for overall mix clarity
-- Tuning and level adjustments for optimal mix balance
+- Separate frequencies: kick (60-80Hz), bass (80-250Hz)
+- EQ kick: +60-120Hz for speakers, +1-4kHz for attack, -200-600Hz boxiness
+- EQ bass: +800Hz for clarity, use genre-specific boosts
+- Fix levels before EQ, compress together (3-6dB reduction)
+- High-pass kick ~30Hz, bass ~50Hz to prevent mud
 
 {{% note %}}
 
-- The interplay between bass and kick drum is crucial for achieving a mix that sounds big and punchy. Spending time to balance their levels and frequencies ensures the foundation of the song is solid.
-- EQ adjustments, such as emphasizing the kick drum in the 60 to 120Hz range and ensuring the bass guitar complements this without frequency overlap, are key steps in avoiding a muddy mix.
-- The snare drum's role in driving the rhythm forward cannot be overstated. Proper compression and EQ can enhance its attack, fullness, and snap, ensuring it cuts through the mix effectively.
-- Removing unnecessary low-end frequencies from non-bass instruments can dramatically improve the clarity and fullness of the mix, especially in dense arrangements.
-- In genres like dance music, the harmonic relationship between the kick and the bass melody is paramount. Ensuring these elements are in tune can prevent dissonance and ensure a cohesive mix.
-- Boosting the level rather than the EQ of the bass or kick can often provide the necessary emphasis without overloading the mix with excessive low-end frequencies.
+# Bass & Drums Balance for Punch
+
+## Frequency Separation Techniques
+- **Kick fundamentals**: 60-80Hz for initial impact, high-pass at 30Hz
+- **Bass fundamentals**: Best in 80-250Hz range, high-pass at 50Hz
+- **Strategic EQ carving**: Create dips in one instrument where the other needs prominence
+
+## Kick Drum Enhancement
+- **Small speaker audibility**: Boost 60-120Hz band
+- **Attack definition**: Add 1-4kHz for beater click
+- **Remove boxiness**: Apply 2-4dB cut between 200-600Hz
+- **Genre-specific**: Metal kicks (+3kHz), club kicks (emphasize 200-300Hz)
+
+## Bass Guitar Treatment
+- **Clarity boost**: Add 800Hz (2-4dB) for string definition
+- **Low-cut technique**: Apply high-pass at 250Hz, then find sweet spot with narrow 4dB boost between 80-180Hz
+- **Rock bass**: +50-100Hz for bottom, -400-800Hz dip, +1.5-2.5kHz for midrange presence
+- **Hip-hop/EDM**: Preserve sub-frequencies (30-60Hz)
+
+## Professional Workflow Solutions
+- **Level management**: Adjust fader balance before reaching for EQ
+- **Compression strategies**: 
+  - Even out bass notes with 4:1 ratio, medium attack
+  - Bus both instruments to shared compressor (3-6dB reduction)
+- **Phase alignment**: Time-align DI and amp signals (typically 2-8ms adjustment)
+- **Reference comparison**: A/B with commercial tracks at matched volume
 
 {{%/ note %}}
 
@@ -228,106 +292,53 @@ margin = 0.2
 
 ---
 
-## Mixing Techniques for Kick Drums
+## Guitar EQ Techniques
 
-- Boost at 4kHz and low frequencies, cut 200 to 400Hz
-- Use a 32Hz tone triggered with the kick for R&B
-- Add clarity to metal kicks with a boost around 3kHz
-- For club kicks, focus on 200 to 300Hz and manage low end
+- Fatten tone by boosting midrange (400Hz) for warmth without sacrificing clarity
+- Cut through the mix with strategic 5-8kHz boost while rolling off bottom end
+- Enhance presence with 1-5kHz boost; add string articulation at 10kHz
+- Filter appropriately (high-pass to avoid bass competition, low-pass below 8kHz)
+- Balance with other instruments through selective frequency enhancement
 
 {{% note %}}
 
-- Enhancing a kick drum involves a strategic boost at 4kHz for definition, cutting the muddy frequencies between 200 to 400Hz, and boosting the low end around 60 to 100Hz to find and enhance the drum's natural resonance.
-- In R&B music, a unique technique involves triggering a 32Hz tone alongside the kick drum, gating it to match the kick's volume envelope. This is then blended and compressed with the original kick sound for added depth and impact.
-- For metal music, adding a slight boost around 3kHz to the kick drum can create a sharp, aggressive edge, often described as the "nail in the paddle" sound, providing clarity and cut through the mix.
-- Mixing a kick for club settings requires a focus on the 200 to 300Hz range, while carefully rolling off the extreme low end. This approach takes advantage of club sound systems' capabilities, avoiding overloading them while ensuring the kick punches through.
+# Guitar EQ Techniques
+
+- **Fatten the sound**: Boost midrange around 400Hz to create thickness without losing brightness
+- **Cut through the mix**: Add presence with 5-8kHz boost while rolling off excessive low end
+- **Balance with other instruments**: Listen for specific chords/strings and enhance selectively  
+- **Control presence and detail**: Add 1-5kHz for presence, 10kHz for string articulation
+- **Strategic filtering**: Use high/low-pass to prevent competition with bass and cymbals
 
 {{%/ note %}}
 
 ---
 
-## Optimizing Bass Frequencies for Different Genres
+# Achieving Vocal Depth and Clarity with EQ
 
-- Balancing low and mid bass frequencies for clarity
-- Boosting around 800Hz for definition
-- Adjusting frequencies below 200Hz for tone shaping
-- Enhancing presence and clarity across the bass spectrum
-
+- **Subtractive EQ:** Cut boxiness (200-800Hz) and problem resonances (2-4kHz)
+- **High-Frequency Boosts:** Enhance presence (4-6kHz) and air (10kHz+) for definition
+- **EQ on Effects:** Scoop mids (2kHz) in reverbs/delays; roll off below 200Hz/above 10kHz
+- **De-essing:** Compress sibilant frequencies (3-10kHz) for smooth "S" sounds
 {{% note %}}
 
-- For clarity and distinction in the bass, focus on the ratio between low bass (80 to 120Hz) and mid bass (120 to 200Hz) by boosting at 100Hz and cutting or boosting at 150Hz. Adjusting these frequencies can enhance the bass's warmth or definition without compromising its depth.
-- Boosting the 800Hz area can add definition to the bass, making it clearer without creating a harsh sound. This frequency range is crucial for bringing out the bass's character without overpowering the mix.
-- Utilizing a four-band parametric EQ allows for precise control over the bass's tone. Attenuate frequencies around 40 to 70Hz to clean up the mix, then boost in the 80 to 120Hz range for a solid foundation, and further enhance the 130 to 200Hz range to bring out overtones and the instrument's body resonance.
-- To prevent the bass from sounding muddy, focus on boosting frequencies between 60Hz and 1.2kHz where higher harmonics reside. This enhancement will add presence and ensure the bass stands out in the mix. Implementing a low-cut filter at 250Hz can also help in refining the bass's low end, making room for other elements like the kick drum.
+To achieve vocal depth and clarity using EQ, consider techniques such as subtractive equalization, boosting high frequencies, utilizing EQ curves on reverbs and delays, and addressing sibilance.
+
+Key techniques to consider:
+
+*   **Subtractive Equalization**: Reduce frequencies that mask definition, especially in the lower midrange (400Hz to 800Hz), which can add a "boxy" quality. You can sweep through frequencies between 200Hz and 600Hz, as well as between 2kHz and 4kHz, to find the areas to cut.
+*   **Boosting High Frequencies**: Add high-frequency EQ for definition. The 4kHz to 6kHz range (presence) is often underutilized and can prevent a track from sounding dull. Too much, however, can make the vocal sound thin. Also, frequencies above 10kHz (air) can add clarity and "realness".
+*   **EQ Curves on Reverbs and Delays**: When using reverb on vocals, create an EQ scoop in the midrange around 2kHz to keep the effect out of the way of the vocal's consonants. You can roll off the high and low ends of the frequency spectrum around 200Hz and 10kHz to prevent muddiness or excessive prominence. To make an effect stand out, brighten it up; to make it blend, darken it by filtering out the highs.
+*   **De-essing**: Use a de-esser to compress the "S" frequencies, which typically fall between 3kHz and 10kHz, to combat sibilance. This can be done either with dedicated hardware or software, or by using a compressor with an equalizer plugged into the sidechain.
+
+Additional techniques and considerations:
+
+*   **Enhancing Consonants**: Accentuate consonants by boosting 2kHz to 4kHz, which makes the vocal seem closer.
+*   **Dealing with problem resonances**: Dynamic EQ can contain sporadic, narrow-bandwidth frequency peaks, which can help when a singer creates different timbres and vowel sounds.
+*   **Creating space for vocals**: Reduce the levels of cymbal frequencies above 5kHz or exaggerate those frequencies in the vocal sound to retain the same vocal sound against cymbals.
+*   **EQ for Distance**: Brighter sounds are perceived as closer, while duller sounds are perceived as farther away.
+*   **Mono Compatibility**: When widening the vocal's stereo image, ensure it remains mono-compatible.
+
+
 
 {{%/ note %}}
-
----
-
-## Advanced Bass EQ Techniques
-
-- Using EQ to find and enhance the bass's sweet spot
-- High-pass filtering to tighten the bass
-- Managing low-frequency competition in the mix
-- Specialized processing for enhanced definition
-
-{{% note %}}
-
-- Employ a bell-shaped EQ to boost around 80 to 180Hz, identifying and emphasizing the bass's best frequencies within the track. This technique can significantly improve the bass's fit in the mix, and, if needed, further density can be added by targeting frequencies below this range with another bell filter.
-- High-pass filtering the bass between 40 and 80Hz can surprisingly tighten its sound, contributing to a cleaner mix. This simple adjustment can make a significant difference in the overall mix quality.
-- Low-frequency content from other instruments can muddy the bass. Cutting below 80 to 120Hz on these tracks ensures that the bass and kick have enough space, improving the mix's clarity and balance.
-- To achieve a more defined bass sound, duplicate the bass track and apply specific processing, such as the Moogerfooger Low-Pass plugin, blending this with the original for a fuller sound. This method can also apply to kick drums, providing a more solid foundation for the mix.
-
-{{%/ note %}}
-
----
-
-## Genre-Specific Bass EQ Tips
-
-- Enhancing hip-hop and electronic bass
-- Shaping rock bass for aggressive sound
-
-{{% note %}}
-
-- In hip-hop and electronic music, the bass often plays a critical role with frequencies ranging from 30 to 60Hz. Adjusting the focus to 70 to 100Hz and extending duration can create a fuller bass sound, suitable for playback on systems with smaller monitors without over-EQing.
-- For rock genres, achieving an aggressive bass sound involves focusing on the amp's tone. Boosting frequencies between 50 and 100Hz adds bottom end, while cutting between 400 to 800Hz allows more space for guitars and vocals. Boosting between 1.5 and 2.5kHz emphasizes the midrange, ensuring the bass is prominent in the mix.
-
-{{%/ note %}}
-
----
-
-## Enhancing Guitar Tones with EQ
-
-- Boosting midrange for a fuller sound
-- Using EQ to highlight specific guitar strings
-- Tailoring high frequencies for presence and detail
-- Applying filters to define the guitar's space in the mix
-
-{{% note %}}
-
-- To achieve a thicker guitar sound, boost the midrange by about 9dB and sweep the frequencies to find the balance where the guitar is both full and bright enough to stand out. Once identified, reduce the boost slightly to ensure the guitar remains distinct without overpowering the mix.
-- Don Smith's approach to EQ involves using it as a tool to enhance the feel of the instrument in the mix, focusing on balancing individual strings for a more cohesive sound. By boosting frequencies associated with underrepresented strings, such as the A or D string, and sweeping through frequencies, EQ can be used to correct imbalances and integrate the guitar more effectively with other instruments.
-- For added clarity and articulation in guitar tracks, boosting at 10kHz emphasizes finger noise and subtle string movements, while a boost between 5 to 8kHz helps the guitar cut through the mix. Elevating frequencies from 1k to 5kHz enhances the guitar's presence, ensuring it captures the listener's attention.
-- Implementing high-pass and low-pass filters on guitar tracks can significantly improve mix clarity. Removing excess low end prevents the guitar from clashing with the rhythm section, while cutting frequencies above 8kHz minimizes competition with cymbals, allowing each component of the mix to occupy its own sonic space.
-
-{{%/ note %}}
-
----
-
-## Vocal EQ Techniques for Depth and Clarity
-
-- Boosting lower midrange for a richer tone
-- Enhancing clarity with mid to high-mid frequencies
-- Adjusting EQ for vocal weight and presence
-- Utilizing EQ as an effect to convey emotion
-
-{{% note %}}
-
-- To give vocals a more profound and "chesty" quality, a slight boost in the 125 to 250Hz range can accentuate the fundamental frequencies of the voice, enriching its tonal depth.
-- Focusing on the 2k to 4kHz range sharpens consonant sounds, which can make the vocals feel more intimate and immediate to the listener. This technique is essential for ensuring that the lyrics are intelligible and that the vocal tracks command attention within the mix.
-- Ed Seay's perspective on EQ involves using it to sculpt the vocal's weight and texture, adding richness around 300Hz to lend the voice a more significant, authoritative presence when necessary. This approach is akin to adjusting the vocal's "body," either slimming it down or beefing it up, depending on the desired effect.
-- Dave Pensado views EQ as a tool for emotional expression, similar to adding chorus or reverb. By subtly boosting frequencies around 3kHz, the vocal can gain an edge or bite that suggests greater effort or passion from the singer, thereby enhancing the emotional resonance of the performance.
-
-{{%/ note %}}
-
----
