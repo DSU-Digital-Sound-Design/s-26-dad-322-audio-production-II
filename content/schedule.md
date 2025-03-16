@@ -194,7 +194,6 @@ date: "2025-1-13"
 
 > [Editing 2 - Equalization](../assignments/eq-lab/) - start in class
 
-<!-- 
 
 # Week 9 (3/10)
 
@@ -208,6 +207,7 @@ date: "2025-1-13"
 
 > Introduce Presentations
 
+<!-- 
 ## Wednesday
 
 - No class (MoxSonic Conference/Festival Travel)
