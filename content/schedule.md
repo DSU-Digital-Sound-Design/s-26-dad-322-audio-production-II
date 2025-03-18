@@ -207,11 +207,11 @@ date: "2025-1-13"
 
 > Introduce Presentations
 
-<!-- 
 ## Wednesday
 
-- No class (MoxSonic Conference/Festival Travel)
+- Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
 
+<!-- 
 ## Friday
 
 - No class (MoxSonic Conference/Festival Travel)
@@ -221,7 +221,7 @@ date: "2025-1-13"
 ## Monday
 
 - Lake County Museum Podcast internship opportunity
-- Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
+
   - Drum Triggering
   - Effects on synth pads for movement 
     - Chorus, Tremolo, Vibrato 
