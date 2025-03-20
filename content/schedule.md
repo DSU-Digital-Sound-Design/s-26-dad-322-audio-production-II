@@ -211,11 +211,11 @@ date: "2025-1-13"
 
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
 
-<!-- 
 ## Friday
 
-- No class (MoxSonic Conference/Festival Travel)
+- Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
   
+<!-- 
 # Week 11 (3/21)
 
 ## Monday
