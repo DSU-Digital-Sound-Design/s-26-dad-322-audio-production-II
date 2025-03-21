@@ -215,11 +215,13 @@ date: "2025-1-13"
 
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
   
-<!-- 
 # Week 11 (3/21)
 
 ## Monday
 
+- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
+
+<!-- 
 - Lake County Museum Podcast internship opportunity
 
   - Drum Triggering
@@ -228,15 +230,19 @@ date: "2025-1-13"
     - Also look at Sound Toys for these effects
 - [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/)
 
+--> 
 
 ## Wednesday
 
-- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
+- Out of town 
 
 ## Friday
 
-- start preparing to teach a lesson
-- More [reverb](../posts/week-12/reverb/)
+- Out of town 
+  
+<!-- - More [reverb](../posts/week-12/reverb/) -->
+
+<!-- 
 
 # Week 12 (3/31)
 
