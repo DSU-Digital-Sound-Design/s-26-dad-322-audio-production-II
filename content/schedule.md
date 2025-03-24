@@ -215,7 +215,7 @@ date: "2025-1-13"
 
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
   
-# Week 11 (3/21)
+# Week 11 (3/24)
 
 ## Monday
 
@@ -237,10 +237,10 @@ date: "2025-1-13"
 - Out of town 
 
 ## Friday
-
-- Out of town 
   
-<!-- - More [reverb](../posts/week-12/reverb/) -->
+- Listen to projects
+- Keep thinking of your lesson plan and proposal (Due April 4th)
+- More [reverb](../posts/week-12/reverb/)
 
 <!-- 
 
