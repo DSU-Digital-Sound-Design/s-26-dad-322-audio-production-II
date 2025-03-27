@@ -242,14 +242,15 @@ date: "2025-1-13"
 - Keep thinking of your lesson plan and proposal (Due April 4th)
 - More [reverb](../posts/week-12/reverb/)
 
-<!-- 
 
 # Week 12 (3/31)
 
 ## Monday
 
-- listen to project 2
+- listen to your class song mixes
+- talk about what you're thinking of doing for your lesson. 
 
+<!-- 
 ## Wednesday
 
  didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
