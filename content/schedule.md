@@ -250,10 +250,10 @@ date: "2025-1-13"
 - listen to your class song mixes
 - talk about what you're thinking of doing for your lesson. 
 
-<!-- 
 ## Wednesday
 
- didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
+- More [reverb](../posts/week-12/reverb/)
+- didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
 
 - Volunteer for presentations next week, starting on Wednesday
 
@@ -265,6 +265,7 @@ date: "2025-1-13"
 > Presentation proposal due by midnight  
 
 
+<!-- 
 # Week 13 (4/7)
 
 ## Monday
