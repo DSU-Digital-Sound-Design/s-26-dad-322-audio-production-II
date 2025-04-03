@@ -255,22 +255,18 @@ date: "2025-1-13"
 - More [reverb](../posts/week-12/reverb/)
 - didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
 
-- Volunteer for presentations next week, starting on Wednesday
-
 ## Friday
 
+- Volunteer for presentations next week, starting on Wednesday
+  - Two students each day 
 - Mixing with [Delays](../posts/week-14/delays/)
 
-
 > Presentation proposal due by midnight  
-
-
-<!-- 
 # Week 13 (4/7)
 
 ## Monday
 
-- No class - Easter Holiday
+- More [delay](../posts/week-15/more-delays) - third-party plugins
 
 ## Wednesday
 
@@ -281,6 +277,7 @@ date: "2025-1-13"
 
 - class presentations
 
+<!-- 
 # Week 14 (4/14)
 
 ## Monday
@@ -290,28 +287,23 @@ date: "2025-1-13"
 
 ## Wednesday
 
-
-- Start working on the radio mix for Thursday's show. 
-  - An example:[WWOZ Stream Archive](https://www.wwoz.org/listen/archive/)
+- [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
+- Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
 > Talk about final project
 
 ## Friday
 
-- More [delay](../posts/week-15/more-delays) - third-party plugins
-- Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
+- No class - Easter
 
 # Week 15 (4/21)
 
 ## Monday
 
-- [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
-
-## Wednesday
-
 - [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation)
 
-## Friday
+
+## Wednesday
 
 - Automation and rides
   - [Mike Senior Video](https://video.cambridge-mt.com/CMTPatrons_MSFTSSWorkflowDemoCh19b_HD.mp4)
@@ -321,6 +313,9 @@ date: "2025-1-13"
   - [(148) Mastering Kendrick Lamar's 'HUMBLE' with Mike Bozzi - YouTube](https://www.youtube.com/watch?v=PBcAwVrX5GQ)
   - [(148) Mastering ‘Happy’ by Pharrell Williams - YouTube](https://www.youtube.com/watch?v=9w6sdNs58tc)
 - [Envelopes and Automation](../posts/week-15/envelopes-automation)
+
+## Friday
+
 
 
  -->
