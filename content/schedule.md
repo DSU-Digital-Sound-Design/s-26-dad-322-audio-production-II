@@ -257,11 +257,12 @@ date: "2025-1-13"
 
 ## Friday
 
-- Volunteer for presentations next week, starting on Wednesday
+- Volunteer for presentations next week, starting on Friday
   - Two students each day 
 - Mixing with [Delays](../posts/week-14/delays/)
 
 > Presentation proposal due by midnight  
+
 # Week 13 (4/7)
 
 ## Monday
@@ -270,14 +271,12 @@ date: "2025-1-13"
 
 ## Wednesday
 
-- class presentations
-
+- Group mixing project - each student works for 15 minutes or so until we complete a mix in class. 
 
 ## Friday
 
 - class presentations
 
-<!-- 
 # Week 14 (4/14)
 
 ## Monday
@@ -287,11 +286,12 @@ date: "2025-1-13"
 
 ## Wednesday
 
-- [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
+- class presentations
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
 > Talk about final project
 
+<!-- 
 ## Friday
 
 - No class - Easter
@@ -300,6 +300,7 @@ date: "2025-1-13"
 
 ## Monday
 
+- [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
 - [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation)
 
 
