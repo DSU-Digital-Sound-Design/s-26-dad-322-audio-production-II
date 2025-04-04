@@ -275,18 +275,20 @@ date: "2025-1-13"
 
 ## Friday
 
-- class presentations
+- Karl
+- Owen
 
 # Week 14 (4/14)
 
 ## Monday
 
-
-- Class presentations
+- David
+- Cameron
 
 ## Wednesday
 
-- class presentations
+- Levi
+- Nick
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
 > Talk about final project
