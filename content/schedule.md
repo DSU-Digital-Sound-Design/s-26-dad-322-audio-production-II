@@ -242,12 +242,11 @@ date: "2025-1-13"
 - Keep thinking of your lesson plan and proposal (Due April 4th)
 - More [reverb](../posts/week-12/reverb/)
 
-
 # Week 12 (3/31)
 
 ## Monday
 
-- listen to your class song mixes
+- Listen to your class song mixes
 - talk about what you're thinking of doing for your lesson. 
 
 ## Wednesday
