@@ -292,7 +292,6 @@ date: "2025-1-13"
 
 > Talk about final project
 
-<!-- 
 ## Friday
 
 - No class - Easter
@@ -301,12 +300,20 @@ date: "2025-1-13"
 
 ## Monday
 
-- [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
-- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation)
+- no class - Easter 
 
 
 ## Wednesday
 
+- Short meeting - Undergraduate Research Presentations at 2 pm in the Science Center! 
+  - We'll talk about the next two classes
+  - Meeting to show progress on projects
+
+<!-- 
+
+## Friday
+- [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
+- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation)
 - Automation and rides
   - [Mike Senior Video](https://video.cambridge-mt.com/CMTPatrons_MSFTSSWorkflowDemoCh19b_HD.mp4)
   - also look at his final mix with the automation drawn in
@@ -315,9 +322,5 @@ date: "2025-1-13"
   - [(148) Mastering Kendrick Lamar's 'HUMBLE' with Mike Bozzi - YouTube](https://www.youtube.com/watch?v=PBcAwVrX5GQ)
   - [(148) Mastering ‘Happy’ by Pharrell Williams - YouTube](https://www.youtube.com/watch?v=9w6sdNs58tc)
 - [Envelopes and Automation](../posts/week-15/envelopes-automation)
-
-## Friday
-
-
 
  -->
