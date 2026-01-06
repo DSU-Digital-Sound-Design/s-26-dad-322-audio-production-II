@@ -5,23 +5,10 @@ author: ""
 ---
 
 {{< toc >}}
-
+<!-- 
 # Project 1 - preliminary mix tasks
 
-<!-- Create a mix of [Broken Man by Speak Softly](https://cambridge-mt.com/ms/mtk-newbies/#SpeakSoftly). Use the techniques we've learned so far in the class.
 
-The project should have the following:
-
-- Organization
-  - The correct tempo so that the transport timeline is in sync with the waveforms
-  - instruments organized by type and colored, group instruments accordingly
-  - markers at the start of new song sections, verse, chorus, bridge etc.
-- Cleaning up audio
-  - silences removed so you can clearly see the arrangement
-  - Rhythmic quantization if necessary. You may not need to use stretch markers. See what you can do by just aligning off rhythm elements to the grid. Look at the synth bass and see what you can fix there.
-  - Perform pitch correction with ReaTune on the lead and background vocals.
-    - Figure out the key of the song. With auto correction work or do you need to do manual correction?
-  - Align the background vocals to the grid and each other. -->
 
 # Project 2 - balance and dynamics processing
 
@@ -54,6 +41,7 @@ Turn in your consolidated project file to D2L.
 
 <!-- Use the rubric here: [DAD 322 Final Project Rubric - Google Sheets](https://docs.google.com/spreadsheets/d/1nYIMVII_1_kSKZnwc59caMSjpjRcNrvCmMJkOqts6kI/edit#gid=1386834576) -->
 
+<!--  
 Complete all mixing tasks from Projects 1 and 2, but this time for our class song. Make an arrangement out of the parts we recorded. This includes project organization, rhythmic quantization, pitch correction, EQ, balance, panning, dynamics processing and transient design.
 
 The project can include reverb and delay. Those effects will be covered the week of March 7 onward.
@@ -72,4 +60,4 @@ Turn in a few sentences about what you want to do for your lesson by Friday 4/1.
 
 # Project 4 - final
 
-Make a recording with at least 15 tracks and mix it using everything we have learned so far in the class. See the specific project requirements listed in the rubric [here](https://docs.google.com/spreadsheets/d/1nYIMVII_1_kSKZnwc59caMSjpjRcNrvCmMJkOqts6kI/edit?usp=sharing).
+Make a recording with at least 15 tracks and mix it using everything we have learned so far in the class. See the specific project requirements listed in the rubric [here](https://docs.google.com/spreadsheets/d/1nYIMVII_1_kSKZnwc59caMSjpjRcNrvCmMJkOqts6kI/edit?usp=sharing). -->
