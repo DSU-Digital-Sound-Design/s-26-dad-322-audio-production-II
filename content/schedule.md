@@ -1,11 +1,11 @@
 ---
 title: "Schedule"
-date: "2025-01-13"
+date: "2026-01-12"
 ---
 
 {{< toc >}}
 
-# Week 1 (1/13)
+# Week 1 (1/12)
 
 ## Monday
 
@@ -38,7 +38,8 @@ date: "2025-01-13"
 > 1. A song good for testing speaker range.
 > 2. A song that sounds great on limited-range speakers (e.g., Post Malone in the references). -->
 
-# Week 2 (1/20)
+<!--
+# Week 2 (1/19)
 
 ## Monday
 
@@ -67,7 +68,7 @@ date: "2025-01-13"
 > **Homework**: Create a list of six mix references (three styles of music). Listen on various speakers and write a paragraph for each explaining your choices.  
 
 
-# Week 3 (1/27)
+# Week 3 (1/26)
 
 ## Monday
 
@@ -86,7 +87,7 @@ date: "2025-01-13"
 
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
-# Week 4 (2/3)
+# Week 4 (2/2)
 
 ## Monday
 
@@ -108,7 +109,7 @@ date: "2025-01-13"
 
 - more recording the class song
 
-# Week 5 (2/10)
+# Week 5 (2/9)
 
 ## Monday
 
@@ -125,10 +126,10 @@ date: "2025-01-13"
 
 - [Building raw balance](../posts/week-5/balance/)
 
-> **Assignment**: Mixing Assignment 1: Choose a medium-difficulty project, create a mixdown with proper balance, adjust timing and tuning. DUE February 24th at 1:00 pm.  
+> **Assignment**: Mixing Assignment 1: Choose a medium-difficulty project, create a mixdown with proper balance, adjust timing and tuning. DUE February 23rd at 1:00 pm.  
 
 
-# Week 6 (2/17)
+# Week 6 (2/16)
 
 ## Monday
 
@@ -146,7 +147,7 @@ date: "2025-01-13"
   -  Look through [some options](https://cambridge-mt.com/ms/mtk/) and talk about what you're thinking about doing. 
   -  Look at some challenges with particular projects.
 
-# Week 7 (2/24)
+# Week 7 (2/23)
 
 ## Monday
 
@@ -170,7 +171,7 @@ date: "2025-01-13"
   - Turn in the results by Monday. 
 - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
 
-# Week 8 (3/3)
+# Week 8 (3/2)
 
 ## Monday 
 
@@ -195,11 +196,11 @@ date: "2025-01-13"
 > [Editing 2 - Equalization](../assignments/eq-lab/) - start in class
 
 
-# Week 9 (3/10)
+# Week 9 (3/9)
 
 - Spring Break - No Classes
 
-# Week 10 (3/17)
+# Week 10 (3/16)
 
 ## Monday
 
@@ -215,7 +216,7 @@ date: "2025-01-13"
 
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
   
-# Week 11 (3/24)
+# Week 11 (3/23)
 
 ## Monday
 
@@ -231,7 +232,7 @@ date: "2025-01-13"
 - [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/)
 
 --> 
-
+<!-->
 ## Wednesday
 
 - Out of town 
@@ -239,10 +240,10 @@ date: "2025-01-13"
 ## Friday
   
 - Listen to projects
-- Keep thinking of your lesson plan and proposal (Due April 4th)
+- Keep thinking of your lesson plan and proposal (Due April 3rd)
 - More [reverb](../posts/week-12/reverb/)
 
-# Week 12 (3/31)
+# Week 12 (3/30)
 
 ## Monday
 
@@ -262,7 +263,7 @@ date: "2025-01-13"
 
 > Presentation proposal due by midnight  
 
-# Week 13 (4/7)
+# Week 13 (4/6)
 
 ## Monday
 
@@ -277,7 +278,7 @@ date: "2025-01-13"
 - Karl
 - Owen
 
-# Week 14 (4/14)
+# Week 14 (4/13)
 
 ## Monday
 
@@ -296,20 +297,17 @@ date: "2025-01-13"
 
 - No class - Easter
 
-# Week 15 (4/21)
+# Week 15 (4/20)
 
 ## Monday
 
-- no class - Easter 
-
+- This was easter holiday - what to do?? 
 
 ## Wednesday
 
 - Short meeting - Undergraduate Research Presentations at 2 pm in the Science Center! 
   - We'll talk about the next two classes
   - Meeting to show progress on projects
-
-<!-- 
 
 ## Friday
 - [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
@@ -322,5 +320,4 @@ date: "2025-01-13"
   - [(148) Mastering Kendrick Lamar's 'HUMBLE' with Mike Bozzi - YouTube](https://www.youtube.com/watch?v=PBcAwVrX5GQ)
   - [(148) Mastering ‘Happy’ by Pharrell Williams - YouTube](https://www.youtube.com/watch?v=9w6sdNs58tc)
 - [Envelopes and Automation](../posts/week-15/envelopes-automation)
-
- -->
+-->
