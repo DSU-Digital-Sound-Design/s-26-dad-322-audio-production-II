@@ -53,7 +53,7 @@ theme = ["terminal", "reveal-hugo"]
 
     [languages.en.params.logo]
       logoText = "DAD 322 Audio Production II"
-      logoHomeLink = "/"
+      logoHomeLink = "/s-26-dad-322-audio-production-II/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
