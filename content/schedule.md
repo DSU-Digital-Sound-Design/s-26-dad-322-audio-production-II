@@ -32,13 +32,7 @@ date: "2026-01-12"
 - Watch at home if we run out of time: 
   - [Setting up a Home Studio Environment](https://youtu.be/rLrZdahhCCE)
 
-
-
-<!-- > **Homework** - Bring two bass references to class on Wednesday:
-> 1. A song good for testing speaker range.
-> 2. A song that sounds great on limited-range speakers (e.g., Post Malone in the references). -->
-
-<!--
+<!-- 
 # Week 2 (1/19)
 
 ## Monday
@@ -232,7 +226,7 @@ date: "2026-01-12"
 - [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/)
 
 --> 
-<!-->
+<!-- 
 ## Wednesday
 
 - Out of town 
@@ -319,5 +313,4 @@ date: "2026-01-12"
 - Watch mastering video:
   - [(148) Mastering Kendrick Lamar's 'HUMBLE' with Mike Bozzi - YouTube](https://www.youtube.com/watch?v=PBcAwVrX5GQ)
   - [(148) Mastering ‘Happy’ by Pharrell Williams - YouTube](https://www.youtube.com/watch?v=9w6sdNs58tc)
-- [Envelopes and Automation](../posts/week-15/envelopes-automation)
--->
+- [Envelopes and Automation](../posts/week-15/envelopes-automation) -->
