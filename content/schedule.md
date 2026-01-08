@@ -188,28 +188,27 @@ date: "2026-01-06"
 - Listening to [EQ examples](https://cambridge-mt.com/ms/ch11/)
 - [Using EQ](../posts/week-8/using-eq/)
 
-> [Editing 2 - Equalization](../assignments/eq-lab/) - start in class
+> **Assignment**: [Editing 2 - Equalization](../assignments/eq-lab/) - start in class, due 3/11 at 2 pm
 
 
 # Week 9 (3/9)
 
-- Spring Break - No Classes
+## Monday (3/9)
+- [Beyond equalization](../posts/week-9/beyond-equalization/)
+
+## Wednesday (3/11)
+- Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
+- EQ Lab due by 2 pm today.
+
+## Friday (3/13)
+- Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
+
+> Introduce presentations. 
 
 # Week 10 (3/16)
 
-## Monday (3/16)
+- Spring Break - No Classes
 
-- [Beyond equalization](../posts/week-9/beyond-equalization/)
-
-> Introduce Presentations
-
-## Wednesday (3/18)
-
-- Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
-
-## Friday (3/20)
-
-- Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
 
 # Week 11 (3/23)
 
@@ -228,11 +227,11 @@ date: "2026-01-06"
 
 --> 
 <!-- 
-## Wednesday
+## Wednesday (3/25)
 
 - Out of town 
 
-## Friday
+## Friday (3/27)
   
 - Listen to projects
 - Keep thinking of your lesson plan and proposal (Due April 3rd)
@@ -240,17 +239,17 @@ date: "2026-01-06"
 
 # Week 12 (3/30)
 
-## Monday
+## Monday   (3/30)
 
 - Listen to your class song mixes
 - talk about what you're thinking of doing for your lesson. 
 
-## Wednesday
+## Wednesday (4/1)
 
 - More [reverb](../posts/week-12/reverb/)
 - didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
 
-## Friday
+## Friday (4/3)
 
 - Volunteer for presentations next week, starting on Friday
   - Two students each day 
