@@ -2,7 +2,7 @@
 
 ## Submit to: D2L
 
-In an article for the North American Review, Thomas Edison (1878)
+In an article for the [North American Review](https://archive.org/details/jstor-25110210), Thomas Edison (1878)
 imagined 10 possible use cases for his new invention of the phonograph:[^1]
 
 1. Letter writing and dictation without the aid of a stenographer.
@@ -26,14 +26,42 @@ imagined 10 possible use cases for his new invention of the phonograph:[^1]
 
 # Instructions
 
-Prepare a written response for an in-class discussion centered on Thomas Edison's list of technologies. This preparation involves several steps:
+Prepare a written response for an in-class discussion centered on Thomas Edison's list of technologies.
 
-1. **Reordering Edison's Technologies**: Rearrange the items on Edison's list based on their current usage frequency. Begin with the most frequently used and end with the least used, based on your best guess.
-2. **Assigning Significance Percentages**: Allocate a percentage to each item, reflecting its modern-day significance. Ensure that the total percentage for all items equals 100%.
-3. **Broadening the Definition of 'the Phonograph'**: When discussing 'the phonograph', consider it as any widely-used sound recording technology today. Feel free to interpret other items on Edison’s list in the context of modern technology.
-4. **Supporting Your List**: Justify the order of your list. While you may use statistics and published data to support your argument, the focus should be on your perspective regarding the cultural significance of recording technologies. Include considerations of different cultural and social contexts.
-5. **Examining Lower-ranked Items**: Analyze why certain items are at the bottom of your list. Speculate about their potential future significance and the technological, social, and cultural factors that might influence this.
-6. **Personal Critical Perspective**: Offer a critique of how technology has evolved since Edison's time. Discuss the sociocultural changes that accompany these technological advancements, expressing both your approval and disapproval of these changes.
+## Deliverable (what to turn in)
+
+Submit **one document** that includes:
+
+1. **A 10-row table** (one row per item on Edison’s list) that shows:
+   - Your **rank order** from most-used today (1) to least-used today (10)
+   - A **significance percentage** for each item (your percentages must total **100%**)
+   - A brief **justification** for each item (1–2 sentences)
+
+2. **A short reflection** (about **300–500 words**) that explains your overall ranking logic, especially your lowest-ranked items and your critique of how recording technologies have shaped society and culture.
+
+You can copy/paste and fill in this template:
+
+| Edison item # | Edison’s description (short) | Your modern interpretation (1 phrase) | Rank (1–10) | Significance (%) | 1–2 sentence justification |
+|---:|---|---|---:|---:|---|
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| 4 |  |  |  |  |  |
+| 5 |  |  |  |  |  |
+| 6 |  |  |  |  |  |
+| 7 |  |  |  |  |  |
+| 8 |  |  |  |  |  |
+| 9 |  |  |  |  |  |
+| 10 |  |  |  |  |  |
+
+## Requirements (what your work should address)
+
+- **Reordering (table)**: Rank the 10 items by current usage frequency (your best guess).
+- **Percentages (table)**: Assign significance percentages that total **100%**.
+- **Modern interpretation (table)**: Treat “the phonograph” as any widely-used sound recording tech today; reinterpret other items in modern terms.
+- **Support + cultural context (table + reflection)**: Justify your ordering using your perspective on cultural significance; you may use published data if helpful.
+- **Bottom items (reflection)**: Explain why your lowest-ranked items fell to the bottom and what could make them more significant in the future.
+- **Critical perspective (reflection)**: Critique how recording tech has evolved since Edison, including sociocultural pros/cons.
 
 [^1]: Sterne 2003, p. 202.
 
