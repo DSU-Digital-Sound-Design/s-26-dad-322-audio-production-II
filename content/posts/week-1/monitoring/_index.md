@@ -8,12 +8,27 @@ margin = 0.2
 
 <!-- show_notes = "separate-page" -->
 
-## The Importance of Hearing and Listening in Audio Mixing
+## Monitoring
 
-- Understanding the critical role of reliable hearing in audio mixing
-- Navigating the challenges of mixing in less-than-ideal environments
-- Learning to make objective decisions based on what you hear
-- The common misconception about processing techniques
+The foundation of professional audio production
+
+{{% note %}}
+
+- Monitoring is the cornerstone of audio production—it's how we hear and evaluate our work
+- This presentation covers everything from basic principles to practical setup tips
+- Topics include: why monitoring matters, equipment selection, studio monitor anatomy, positioning, and setup
+- Whether you're working in a professional studio or a home setup, understanding monitoring will dramatically improve your mixes
+
+{{%/ note %}}
+
+---
+
+## Why Accurate Monitoring Matters
+
+- Reliable hearing is essential for effective mixing
+- Professional techniques work in less-than-ideal spaces
+- Objective listening decisions matter more than equipment quality
+- Poor mixes often result from hearing problems, not technique problems
 
 {{% note %}}
 
@@ -26,11 +41,9 @@ margin = 0.2
 
 ---
 
-## Ideal environments - Famous studios around the world
+## Famous Studios: Ideal Mixing Environments
 
-- Hans Zimmer's Music Lair
-  - [(41) Look Inside Hans Zimmer's LA Studio — Hans Zimmer Strings - YouTube](https://www.youtube.com/watch?v=dFcvQY3U6XA)
-  - [14th Street Music](https://14thstreetmusic.com/)
+- [Hans Zimmer's LA Studio](https://www.youtube.com/watch?v=dFcvQY3U6XA)
 - [Electric Lady Studios](https://electricladystudios.com/)
 - [Real World Studios](https://www.realworldstudios.com/)
 - [Abbey Road Studios](https://www.abbeyroad.com/)
@@ -39,23 +52,31 @@ margin = 0.2
 
 {{% note %}}
 
-Here are some of the ideal environments I mentioned before. 
+- These world-class studios represent ideal mixing environments with:
+  - Professionally designed acoustic treatment to minimize reflections and standing waves
+  - High-end monitoring systems calibrated for accurate frequency response
+  - Carefully controlled room dimensions and geometry
+  - Dedicated listening positions optimized for stereo imaging
+- While most of us won't have access to these spaces, understanding what makes them ideal helps us improve our own environments
+- Many successful mixes still come from less ideal spaces using the right techniques
+
 {{%/ note %}}
 
 ---
 
-## Real-world studios
+## Real-World Studio Examples
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O1YYbaLQN0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## Selecting the Right Monitoring Equipment for Audio Mixing
+## Choosing Studio Monitors
 
-- Choosing appropriate monitoring equipment
-- Maximizing value for money in monitor selection
-- Understanding the limitations of hi-fi speakers for studio use
-- Personal preference in monitor choice
+- Quality monitors provide accurate frequency response (but cost more)
+- Smaller nearfield monitors often outperform large speakers for mixing
+- Focus on stereo quality over surround sound on limited budgets
+- Avoid hi-fi speakers—use active/powered monitors instead
+- Get familiar with your specific monitors through reference tracks
 
 {{% note %}}
 
@@ -70,43 +91,45 @@ Here are some of the ideal environments I mentioned before.
 ---
 
 
-## Studio Monitors
+## Studio Monitor Anatomy
 
 ![](studio-monitor-anatomy.png)
 
 {{% note %}}
 
-- cabinet - what surrounds the speaker electronics, can be made out of various materials, like metal, wood, or plastic.
-- two drivers
-  - tweeter - Tweeters are often cone- or dome-shaped, again constructed from a wide range of materials. They are responsible for producing high frequencies, usually starting at around 2 kHz.
-  - woofer - These are generally cone-shaped and responsible for producing low and mid-range frequencies in monitors with two drivers (called two-way).
+- Cabinet: Houses speaker electronics (metal, wood, or plastic)
+- Two drivers:
+  - Tweeter: Produces high frequencies (above ~2 kHz) using cone or dome shapes
+  - Woofer: Produces low and mid-range frequencies in two-way monitors
 
 {{%/ note %}}
 
 ---
 
-## Active vs Passive
+## Active vs Passive Monitors
 
 ![](active-vs-passive.png)
 
 {{% note %}}
 
-- passive - requires an external amplifier to amplify the input signal before entering the monitor. This amplified signal is then sent through a series of electronic components within the monitor called the crossover network.
-- active - does not require external amplification, as amplifiers are housed within the cabinet. The input signal entering the monitor passes through the crossover network first, after which each band is separately amplified before being sent to the relevant drivers.
-- Active speakers are much more convenient to use, as they require no external equipment to be used.
+- Passive monitors: Require external amplifier → signal amplified → crossover network → drivers
+- Active monitors: Built-in amplifiers → signal passes through crossover first → each frequency band amplified separately → drivers
+- Active speakers are more convenient (no external equipment needed)
 
 {{%/ note %}}
 
 ---
 
-## Nearfield monitoring
+## Nearfield Monitoring
 
 ![](near-field-vs-far-field-monitors.png)
 
 {{% note %}}
 
-- Our monitors can be the most important part of our mix environment. They are something that it makes sense to spend a bit of money on.
-- generally have smaller drivers and are placed closer to the listener (around 2-3 feet away). Their proximity means that more direct sound from the monitor will hit the listener’s ears, rather than reflected sound from surfaces in the room. Near fields will seem to increase the ratio of direct to reflected sound.
+- Monitors are the most important part of your mix environment—worth the investment
+- Nearfield monitors: Smaller drivers placed 2-3 feet from listener
+- Proximity advantage: More direct sound reaches your ears, less room reflection
+- Result: Higher ratio of direct-to-reflected sound = more accurate monitoring
 
 {{%/ note %}}
 
@@ -114,13 +137,21 @@ Here are some of the ideal environments I mentioned before.
 
 ## What are the mains for?
 
-> “There just aren’t many situations where the main monitors sound all that good,” says Chuck Ainlay. “The mains in most studios are intended primarily for hyping the clients and playing real loud.”
+> "There just aren't many situations where the main monitors sound all that good," says Chuck Ainlay. "The mains in most studios are intended primarily for hyping the clients and playing real loud."
 
-> “I don’t use the big monitors in studios for anything,” says Nigel Godrich, “because they don’t really relate to anything.”
+> "I don't use the big monitors in studios for anything," says Nigel Godrich, "because they don't really relate to anything."
+
+{{% note %}}
+
+- Chuck Ainlay: Grammy-winning mix engineer known for work with Mark Knopfler, Dire Straits, Vince Gill, and countless Nashville artists. His point: large main monitors are more about impressing clients than accurate mixing.
+- Nigel Godrich: Producer/engineer for Radiohead, Beck, Paul McCartney, and U2. Known for his innovative production techniques and preference for nearfield monitoring during actual mixing work.
+- Key takeaway: Even world-class engineers with access to the best equipment prefer smaller nearfield monitors for critical mixing decisions. Large mains don't translate well to how most people listen to music.
+
+{{%/ note %}}
 
 ---
 
-## Which monitors to pick?
+## Recommended Studio Monitors
 
 - [ADAM Audio T5V 5 inch Powered Studio Monitor](https://www.sweetwater.com/store/detail/T5V--adam-audio-t5v-5-inch-powered-studio-monitor)
 - [KRK ROKIT 8 G4 8 inch Powered Studio Monitor](https://www.sweetwater.com/store/detail/Rokit8G4--krk-rokit-8-g4-8-inch-powered-studio-monitor)
@@ -130,15 +161,15 @@ Here are some of the ideal environments I mentioned before.
 
 {{% note %}}
 
-- It's also a good idea to avoid "hi-fi" speakers, such as those used in home stereo systems.
-- active are good
-- a lot of it is budget and personal preference
+- Avoid hi-fi speakers (designed for home stereos, not mixing)
+- Choose active monitors for convenience
+- Final choice depends on budget and personal preference
 
 {{%/ note %}}
 
 ---
 
-## Speaker stands and other mounts
+## Monitor Stands and Isolation
 
 - [Stand recommendations](https://ehomerecordingstudio.com/studio-monitor-stands/)
 - [IsoAcoustics](https://www.sweetwater.com/store/detail/ISO155--isoacoustics-iso-155-isolation-stands-for-studio-monitors-pair)
@@ -146,18 +177,21 @@ Here are some of the ideal environments I mentioned before.
 
 {{< note >}}
 
-- the speaker cabinets should be as firmly fixed as possible, because if they move at all in sympathy with the woofer excursions it’ll mess with how the low end of the mix is represented. How exactly you decide to mount the boxes will depend on the physical limitations you have to work with in your particular setup, but my recommendation is to use dedicated speaker stands, as these typically give a much better sound than desks and shelves and can be moved around the room more easily than heavy-duty wall brackets.
+- Firmly fix speaker cabinets—movement distorts low-end representation
+- Use dedicated speaker stands (better than desks/shelves)
+- Stands offer better sound quality and easy repositioning
+- Avoid heavy-duty wall brackets unless space requires them
 
 {{< /note >}}
 
 ---
 
-## Critical Speaker Positioning for Optimal Audio Mixing
+## Speaker Positioning Essentials
 
-- Importance of direct speaker alignment to the listening position
-- The phenomenon of phase and comb filtering in audio
-- Vertical alignment and its impact on audio quality
-- Comb filtering between speaker drivers in nearfield monitors
+- Aim speakers directly at listening position for accurate high frequencies
+- Phase and comb filtering alter sound when signals misalign
+- Vertical alignment prevents comb filtering at crossover frequencies
+- Driver misalignment affects critical mid-range (vocals, snare drums)
 
 {{% note %}}
 
@@ -171,12 +205,12 @@ Here are some of the ideal environments I mentioned before.
 ---
 
 
-## How to set up the monitors?
+## Monitor Setup Guide
 
 ![](monitor-setup.png)
 
 {{< note >}}
 
-Here's a helpful diagram. 
+Follow this diagram for optimal monitor placement and positioning.
 
 {{< /note >}}
