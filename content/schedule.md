@@ -35,20 +35,21 @@ date: "2026-01-06"
 
 # Week 2 (1/19)
 
-<!--
 ## Monday (1/19)
 
 - No class (MLK Day)
 
 ## Wednesday (1/21)
 
-- No class (Professional Development)
-
-## Friday (1/23)
-
+- [Supplemental Monitoring](../posts/week-2/wednesday/)
 - [Low-end Mixing References](../posts/week-1/CambridgeMT_5BassReferences.pdf)
   - [Notes on Bass References](../posts/week-1/bass-reference-notes)
 - Listen to your favorite music and analyze its mix. These might become your reference mixes later.
+
+<!--
+## Friday (1/23)
+
+- [Pre-mixing Checklist](../posts/week-2/friday/)
 - Resources:  
   - [Presonus Monitor Station Reference](https://pae-web.presonusmusic.com/downloads/products/pdf/MonitorStation_OwnersManual_EN.pdf)  
   - Mixing resources:  
@@ -56,7 +57,6 @@ date: "2026-01-06"
     - [TapeOp](https://tapeop.com/)  
     - [Pensado's Place](https://www.pensadosplace.tv/)  
 - Lecture:  
-  - [Supplemental Monitoring](../posts/week-2/wednesday/) 
   - [Short Video on SPAN](https://www.youtube.com/watch?v=iZrWMv02tlA)  
   - Mix Referencing - [From Subjective Impressions to Objective Results](../posts/week-2/friday/)  
 
