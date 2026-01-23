@@ -61,7 +61,6 @@ date: "2026-01-06"
 
 > **Homework**: Create a list of six mix references (three styles of music). Listen on various speakers and write a paragraph for each explaining your choices.  
 
-<!--
 
 # Week 3 (1/26)
 
@@ -70,6 +69,7 @@ date: "2026-01-06"
 - Listen to your mix references
 - [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)  
 
+<!--
 ## Wednesday (1/28)
 
 - [Tempo mapping](../posts/week-3/monday/timing-and-tuning/)
