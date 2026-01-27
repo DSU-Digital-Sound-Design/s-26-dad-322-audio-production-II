@@ -11,41 +11,13 @@ Begin by reviewing the notes accompanying the tracks to determine the correct BP
 Group similar tracks into dedicated folders. For instance, consolidate all drum tracks into a 'Drums' folder, and all guitar tracks into a 'Guitars' folder, and so on. Employ the track manager for efficient organization of projects with an extensive number of tracks.
 
 
-## Trimming Silence
-
-The next phase involves refining each track by eliminating silences and reducing bleed from other instruments captured by the microphone. Trimming unnecessary audio cleans up the session and encourages closer, more critical listening to the material. Address any obvious recording issues at this stage before beginning the mix.
-
-This process is often referred to as “strip silence” in other DAWs.
-
-In REAPER, this is accomplished using the Dynamic Split feature. To begin, enlarge the track vertically using Shift + !, then press D to open the Dynamic Split Items dialog.
-
-Configure the dialog as follows:
-
-* Enable “When gate opens” and “When gate closes”
-* Leave “At transients” disabled
-* Adjust the gate Threshold until desired material reliably opens the gate
-* Set Minimum slice length and Minimum silence length to prevent very short regions
-* Enable “Remove silent areas (requires splitting on gate close)”
-* Check “Fade pad” 
-* Set Leading pad to 20 ms
-* Set Trailing pad to 20 ms
-
-Once the preview looks correct, click “Split” to apply the edits.
-
-Use the settings shown below as a reference:
-
-![](../split-silence.png)
-
-Finish by soloing each track and listening carefully to ensure that no intentional material has been removed and that note onsets and decays remain natural.
-
-
 ## Color-Coding and Track Renaming
 
 Color-coding and renaming tracks are essential for maintaining a clear overview of your project. This practice enhances your workflow and helps you quickly identify specific tracks. For instance, you might color-code all drum tracks in blue, guitar tracks in green, and vocal tracks in red. This visual organization simplifies the mixing process and streamlines your workflow. You can also rename tracks to reflect the instrument or part they represent, such as "Kick Drum" or "Lead Guitar." 
 
 ## Regions and Markers
 
-> Note: We would usually do this now, but in the next section we'll be doing some tempo mapping that will change the project length, so we'll wait until after that to set up regions and markers. Right now, just familiarize yourself with how to create them.
+> **Note**: We'll set up regions and markers after tempo mapping in the next session, since tempo mapping changes the project timeline. Similarly, we'll strip silence after tempo mapping—with the grid aligned to the music, it's easier to select items and verify edits land on musically meaningful points. For now, just familiarize yourself with the shortcuts below.
 
 Regions and markers are indispensable tools for navigating your project. Regions are used to define sections of your project, such as verses, choruses, and bridges. Markers, on the other hand, are used to highlight specific points in your project, such as key changes or significant events. By utilizing regions and markers effectively, you can easily navigate your project and make precise edits and adjustments.
 
