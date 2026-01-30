@@ -83,7 +83,6 @@ date: "2026-01-06"
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
 > **Assignment**: [Editing 1 - Drums](../posts/week-3/wednesday/) - Due Wednesday
-<!--
 # Week 4 (2/2)
 
 ## Monday (2/2)
@@ -94,6 +93,7 @@ date: "2026-01-06"
 
 > **Assignment**: Complete the vocal tuning and aligning project for *Better Way* and submit to D2L by Monday.  
 
+<!--
 ## Wednesday (2/4)
 
 - Finish [Tuning and vocal aligning](../posts/week-4/tuning/) - aligning backup vocals
