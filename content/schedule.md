@@ -90,10 +90,10 @@ date: "2026-01-06"
 - [Tuning and vocal aligning](../posts/week-4/tuning/)
   - ReaTune - manual and automatic adjustments
   - Vocal Alignment
+- We're starting our class song on Wednesday, so bring in any ideas (and instruments) you have for the composition.
 
 > **Assignment**: Complete the vocal tuning and aligning project for *Better Way* and submit to D2L by Monday.  
 
-<!--
 ## Wednesday (2/4)
 
 - Finish [Tuning and vocal aligning](../posts/week-4/tuning/) - aligning backup vocals
@@ -102,6 +102,7 @@ date: "2026-01-06"
   - Create backing tracks for playing to?
   - Drums, bass, other instruments?
 
+<!--
 ## Friday (2/6)
 
 - more recording the class song
