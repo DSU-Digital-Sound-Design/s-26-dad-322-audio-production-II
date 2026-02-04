@@ -102,6 +102,7 @@ date: "2026-01-06"
   - Create backing tracks for playing to?
   - Drums, bass, other instruments?
 
+<!-- test -->
 <!--
 ## Friday (2/6)
 
