@@ -102,8 +102,6 @@ date: "2026-01-06"
   - Create backing tracks for playing to?
   - Drums, bass, other instruments?
 
-<!-- test -->
-<!--
 ## Friday (2/6)
 
 - more recording the class song
@@ -112,12 +110,14 @@ date: "2026-01-06"
 
 ## Monday (2/9)
 
+- More recording the class song
+  
+<!--
+## Wednesday (2/11)
+
 - [Takes and comping](../posts/week-4/takes-comping/)
 - [Punching in](../posts/week-4/punching-in/)
 - We'll put the class song on hold for a bit and work on mixing projects.
-
-## Wednesday (2/11)
-
 - Redo drum recording and record some alto saxophone. More practice.
 
 
