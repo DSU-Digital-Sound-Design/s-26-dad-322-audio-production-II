@@ -112,22 +112,19 @@ date: "2026-01-06"
 
 - More recording the class song
   
-<!--
 ## Wednesday (2/11)
 
-- [Takes and comping](../posts/week-4/takes-comping/)
-- [Punching in](../posts/week-4/punching-in/)
-- We'll put the class song on hold for a bit and work on mixing projects.
-- Redo drum recording and record some alto saxophone. More practice.
-
+- out of town - no class 
 
 ## Friday (2/13)
 
-- [Building raw balance](../posts/week-5/balance/)
+- [Takes and comping](../posts/week-4/takes-comping/)
+- [Punching in](../posts/week-4/punching-in/)
 
 > **Assignment**: Mixing Assignment 1: Choose a medium-difficulty project, create a mixdown with proper balance, adjust timing and tuning. DUE February 23rd at 1:00 pm.  
 
 
+<!--
 # Week 6 (2/16)
 
 ## Monday (2/16)
@@ -137,6 +134,7 @@ date: "2026-01-06"
 
 ## Wednesday (2/18)
 
+- [Building raw balance](../posts/week-5/balance/)
 - Saxophone and other recordings for the class song
 
 ## Friday (2/20)
