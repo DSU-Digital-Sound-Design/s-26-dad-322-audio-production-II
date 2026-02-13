@@ -124,7 +124,6 @@ date: "2026-01-06"
 > **Assignment**: Mixing Assignment 1: Choose a medium-difficulty project, create a mixdown with proper balance, adjust timing and tuning. DUE February 23rd at 1:00 pm.  
 
 
-<!--
 # Week 6 (2/16)
 
 ## Monday (2/16)
@@ -132,6 +131,7 @@ date: "2026-01-06"
 - No class - President's Day
 
 
+<!--
 ## Wednesday (2/18)
 
 - [Building raw balance](../posts/week-5/balance/)
