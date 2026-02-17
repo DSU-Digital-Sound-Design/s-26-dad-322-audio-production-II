@@ -7,7 +7,7 @@ title: "Building the Raw Balance"
 # Balance 
 
 - Mixing demands a clear, overarching game plan to make confident decisions.
-- Learning to mix is a step-by-step process, analogous to learning to drive, starting with mastering basic techniques before progressing to the more complex nuanced skills.
+- Learning to mix is a step-by-step process, analogous to learning to drive, starting with basic techniques before progressing to more complex, nuanced skills.
 - The most important aspect of mixing is achieving balance, ensuring every important sound is clear and appropriately leveled throughout the mix.
 
 # What order do you start mixing in?
@@ -17,7 +17,7 @@ title: "Building the Raw Balance"
 
 ## Start with the most important section
 
-Before setting the most important section, we should add regions around the sections so that we can easily see where sections start and end.
+Before mixing the most important section, we should add markers or regions around each section so we can easily see where they start and end.
 
 What is the most important section of this song?
 
@@ -33,13 +33,13 @@ The choruses are the most important parts so we mix all of those first.
 
 ## Start with the Most Important Instrument
 
-Now that we've chosen the structure our mix will take, we have to find the most important instrument. What is that for this song? We'll bring up this fader first, then decide what else is important and go in that order. If we go in the correct order, we can avoid over-processing when we try to squeeze instruments into a space.
+Now that we've chosen the structure our mix will take, we have to find the most important instrument. What is that for this song? We'll bring up this fader first, then decide what else is important and go in that order. If we go in the correct order, we can avoid over-processing when trying to fit instruments into the mix.
 
-Let's each of us in class write down a list of what we think the most important instruments are in order. We'll discuss why and try to stick to our plan.
+Let's each write down a list of what we think the most important instruments are, in order of priority. We'll discuss why and try to stick to our plan.
 
 ## A Basic three-step process for balancing
 
-> - **Unwanted Low Frequencies:** Begin by removing any unnecessary low frequencies from instruments recorded to their mono audio file. This step is crucial for maintaining clarity in the mix.
+> - **Unwanted Low Frequencies:** Begin by removing any unnecessary low frequencies from each instrument's audio track. This step is crucial for maintaining clarity in the mix.
 > - **Pan Control Adjustment:** Next, adjust the pan control to position the instrument appropriately within the stereo field. Proper panning contributes significantly to the perceived spaciousness and organization of the mix.
 > - **Fader Level Setting:** Finally, set the fader level to achieve the desired prominence of the instrument in the mix. This step is about finding the right balance where the instrument sits well with others while contributing effectively to the overall mix.
 
@@ -60,8 +60,8 @@ High-pass filtering is an essential process in mixing, primarily used for cleani
   - For home studios, using a spectrum analyzer can offer additional insight, especially when monitoring conditions are not ideal.
   
 #### Specific Considerations:
-- **Instrument-Specific Filtering:** While the technique is broadly applicable, attention should be paid to instruments with significant low-frequency content, like kick drums, snares, and bass.
-  - For these instruments, high-pass filtering can sometimes affect the attack or punch of the sound. Therefore, setting the cutoff frequency lower and listening carefully for any negative impact on the drum's attack is crucial.
+- **Instrument-Specific Filtering:** While the technique is broadly applicable, take extra care with instruments that have significant low-frequency content, like kick drums, snares, and bass.
+  - For these instruments, high-pass filtering can sometimes affect the attack or punch of the sound. Therefore, set the cutoff frequency lower than usual and listen carefully for any negative impact on the instrument's attack.
 
 ### Pan control adjustment
 
@@ -77,8 +77,8 @@ High-pass filtering is an essential process in mixing, primarily used for cleani
 
 ### Fader level setting
 
-- **Foundational Step:** Setting levels is a fundamental step in mixing, crucial for preventing distortion and ensuring each track sits correctly in the mix's overall soundscape.  
-- **DAW Headroom and Noise Floor:** Modern DAWs, with their floating-point processing, offer virtually unlimited headroom and a non-existent noise floor, allowing for a wide latitude in setting levels without the risk of distortion or quality loss.
+- **Foundational Step:** Setting levels is a fundamental step in mixing, crucial for preventing distortion and ensuring each track sits correctly in the overall mix.  
+- **DAW Headroom and Noise Floor:** Modern DAWs use floating-point processing, which means individual channels won't hard-clip internally even if their meters go red. However, this doesn't mean you should ignore hot levels. Plugins (especially analog-modeled ones) can distort or behave unpredictably when hit too hard, and the master output will clip when converted for playback or export. Keep individual channels at healthy levels to maintain good gain staging throughout your signal chain.
 
 #### Strategies for Level Setting:
 - **Avoiding Overloading:** Despite the ample headroom, it's wise to avoid channel and bus overloads for practical reasons, like the ability to export unclipped mix stems.
@@ -93,76 +93,61 @@ High-pass filtering is an essential process in mixing, primarily used for cleani
 - **Preliminary Decisions:** Make informed initial fader settings to minimize the need for extensive processing later. Stay attentive to the balance and be ready to employ plugins where necessary.
 - **Ongoing Adjustment and Reference:** Understand that the initial balance is a starting point. The final, polished balance often requires ongoing adjustments, processing, and referencing against commercial productions for a well-rounded and competitive mix.
 
-### In-depth Mixing Process for "Better Way"
+### Step-by-Step Mixing Process for a Rock/Pop Track
+
+I'm going to demo this with a random track from [The 'Mixing Secrets' Free Multitrack Download Library
+](https://cambridge-mt.com/ms3/mtk), but this process will work for other songs as well. 
 
 #### Starting with Drums
 
-**Overhead and Cymbals (SnareCymbals Track):**
-   - **Initial Focus:** Start "SnareCymbals" for a comprehensive view of the drum kit's sound.
-   - **Mono Compatibility Check:** Use the mono switch to identify any phase issues, especially for cymbals which can lose presence in mono.
-   - **High-Pass Filtering:** Implement a high-pass filter at 20 Hz to eliminate subsonic rumble, ensuring a clean low-end.
-   - **Level Setting:** Adjust the fader to reach around -18 dB on the master, establishing a foundational level for the drums.
+Work through the drum kit from the most prominent elements to the supporting ones.
 
-**Snare (Snaps as Snare):**
-   - **No Dedicated Snare Track:** If there's no separate snare track, use an alternative like snaps to represent the snare sound.
-   - **High-Pass Filtering and Leveling:** Apply a high-pass filter at 20 Hz and set the level to complement the "SnareCymbals" track, maintaining balance within the drum kit.
+**Overhead and Room Mics:**
+- **Initial Focus:** Start with the overhead tracks to establish the overall character and shape of the drum kit before dialing in individual drums.
+- **Mono Compatibility Check:** Toggle mono on your master bus to listen for phase cancellation between the overheads and room mic, which are at different distances from the kit. If the sound thins out or loses punch in mono, try flipping the polarity on the room mic or time-aligning it to the overheads.
+- **High-Pass Filtering:** Apply a high-pass filter and raise the cutoff until you hear the low end thin out, then back it off slightly. A starting point around 80-120 Hz is common for overheads.
+- **Pan Adjustment:** Pan the left overhead left and the right overhead right to create a natural spread, typically around 70-80% each direction.
+- **Level Setting:** Bring the overheads up until the drum kit has a sense of air and space without overwhelming the close mics you will add later.
+
+**Snare:**
+- **High-Pass Filtering:** Apply a high-pass filter conservatively. The snare has important low-mid body, so start the cutoff low (around 80 Hz) and listen carefully. Avoid cutting into the fundamental if it diminishes the snare's weight.
+- **Pan Adjustment:** Place the snare at or near center. Slight offset (10-15%) toward the hi-hat side can feel more natural but is not required.
+- **Level Setting:** Set the snare loud enough to cut through clearly. The snare is often the anchor of the groove, so treat its level as a key reference point for the rest of the drum mix.
 
 **Kick Drum:**
-   - **High-Pass Filtering:** Carefully apply a high-pass filter if necessary, being mindful not to remove the kick's punch. Use a spectrum analyzer like Span to visually confirm the filter's impact.
-   - **Level Adjustment:** Set the kick level relative to the snare and cymbals, ensuring a cohesive drum mix. Regularly switch between speaker sets to confirm the balance across different listening environments.
+- **High-Pass Filtering:** Apply a high-pass filter very carefully. The kick carries essential sub and low-mid energy. Start the cutoff below 40 Hz to remove only true subsonic rumble, then use a spectrum analyzer to confirm you are not removing audible punch.
+- **Pan Adjustment:** Keep the kick centered.
+- **Level Setting:** Balance the kick against the snare so neither dominates. They should feel like they share the same room. Check the relationship frequently by soloing both together.
 
-**Shakers and Other Drum Elements:**
-   - **Final Touches:** Introduce shakers to add rhythm and texture. Gradually bring in the remaining drum elements, checking their balance against the established drum mix.
+**Hi-Hat and Cymbals (Close Mics, if present):**
+- **High-Pass Filtering:** Hi-hats and cymbals have little useful low-frequency content. Set the high-pass filter cutoff to 300-400 Hz or higher to clean up bleed.
+- **Pan Adjustment:** Pan the hi-hat to the side opposite the ride or floor tom to create a natural kit image. Use opposition panning to balance the stereo field.
+- **Level Setting:** Bring these elements in to taste, supporting the groove without cluttering the high frequencies.
+
+**Toms:**
+- **High-Pass Filtering:** Apply a high-pass filter to each tom track, removing frequencies well below the tom's fundamental. Floor toms need a lower cutoff than rack toms.
+- **Pan Adjustment:** Pan toms to reflect their physical position in the kit, moving from left (high tom) to right (floor tom) or vice versa depending on the kit orientation.
+- **Level Setting:** Toms are typically lower in the mix except during fills. Set a level that lets them sit naturally when playing and cut through during fills.
 
 #### Moving to Bass
 
-- **High-Pass Filtering:** Apply a high-pass filter at 20 Hz to clean up any low-end rumble, ensuring clarity in the bass frequencies.
+- **High-Pass Filtering:** Apply a high-pass filter to remove any subsonic rumble or low-end noise. A cutoff around 30-40 Hz is typical. Use a spectrum analyzer to confirm you are only removing content below the instrument's fundamental range.
+- **Pan Adjustment:** Keep the bass centered. A centered bass locks with the kick drum and ensures consistent energy in both mono and stereo playback.
+- **Level Setting:** Bring the bass up until it supports and complements the kick drum. The two should feel like they occupy the same low-end space without fighting each other. Check the balance in mono to confirm the bass and kick remain distinct.
 
-#### Mixing Other Instruments
+#### Mixing Guitars
 
-- **Step-by-Step Approach:** Continue the process used for drums and bass, applying high-pass filtering where necessary and carefully setting levels to maintain a balanced mix.
+**Rhythm Guitars:**
+- **High-Pass Filtering:** Apply a high-pass filter aggressively on rhythm guitars. Guitar low-end often conflicts with the bass and kick. A cutoff around 80-120 Hz is a good starting point, though some engineers go higher.
+- **Pan Adjustment:** If there are two rhythm guitar tracks (a common recording approach), pan them to opposite sides, for example 60-80% left and 60-80% right. This creates width and separation. If there is a single rhythm guitar, position it where it best balances the mix.
+- **Level Setting:** Set rhythm guitars to support the groove and harmonic foundation without masking the bass or overloading the midrange. They should feel like part of the bed of the mix, not the lead element.
+
+**Lead Guitar or Featured Guitar Parts:**
+- **High-Pass Filtering:** Apply a high-pass filter similarly to rhythm guitars, adjusting the cutoff to preserve the body of the tone while removing low-end mud.
+- **Pan Adjustment:** Position the lead guitar where it has space in the stereo field. Center works well if it is the primary melodic focus. An offset position can work if it is a secondary element responding to another instrument.
+- **Level Setting:** The lead guitar should sit above the rhythm guitars and be clearly audible as the featured part. Use the vocals (when present) as a reference point so the lead guitar does not compete with them.
 
 #### Finishing Up
 
-- **Fader-to-Item Volume Transfer:** Use the script "_Script: X-Raym_Offset selected items volume by their track fader value.lua_" to transfer fader levels to individual track items. This allows for later adjustments or automation without altering the foundational mix balance.
-- **Speaker Switching and Breaks:** Frequently switch listening setups and take breaks to ensure a fresh perspective. Vary listening levels to gauge the mix's performance across different volume ranges.
-- **Final Level Check:** Aim for a balanced mix with the master track peaking no higher than -6 dB, ensuring sufficient headroom for mastering.
-
-<!-- 
-## In-depth process for our song "Better Way"
-
-### Drums
-
-Usually we start with the drums for music like this. In drum recordings, having good sounding overheads is a nice place to start. These multitracks have a strangely recorded "SnareCymbals" track. We'll start with that.
-
-If we toggle the mono switch to check for mono compatibility you can hear that the cymbals are getting lost in mono. Zoom in on the waveform to check for phase issues. Mike Senior uses a channel delay trick, but that only seems to make our mix worse, so we won't use it.
-
-Add a high pass filter at 20 hZ to cut out subsonic rumble. Raise the fader until you're reaching about -18 dB on the master.
-
-> I docked my mixer on the left side of my screen so I can see it more clearly.
-
-This track doesn't have a dedicated snare track, so we'll treat the snaps at the snare and mix those next. High pass filter the track at 20 hZ. Set the level relative to the snare cymbals track.
-
-Now we'll move onto the kick. We can try to hpf this, but it might not be necessary. Listen carefully if you're cutting out punch with the filter. Check to see if anything is actually happening with Span on your master track.
-
-> Mike Senior is checking polarity often in the video. This is because he's mixing multimiced drums. Our drums were are not multimiced, so we don't need to worry about that.
-
-Now, set the level of the kick to the snare and snarecymbals. Be sure to listen with both sets of speakers. Finally introduce the shakers to round out the drums.
-
-Go to an earlier section of the song and bring in the other drum elements.
-
-## Bass
-
-- high pass at 20 hZ
-
-## Other instruments
-
-Continue the above
-
-## Finishing up
-
-After we're done we'll use the script _Script: X-Raym_Offset selected items volume by their track fader value.lua_ to copy the values of the faders to our media item volumes. We do this so that we can use the faders later for automation or further mixing.
-
-Be sure to switch speakers often to get a good idea of how the balance will sound on different systems and that you're not deceiving yourself. Take lots of breaks and vary your listening levels.
-
-I'm aiming to have everything sounding balanced, while having the master track not go above -6 dB. -->
+- **Speaker Switching and Breaks:** Regularly switch between different listening setups (studio monitors, headphones, a small Bluetooth speaker) to check how the balance translates. Take short breaks to reset your ears. Return at a lower volume to confirm the balance still holds when you are not listening loud.
+- **Final Level Check:** Before moving on, aim for a master track peak no higher than -6 dB. This leaves sufficient headroom for processing, bus compression, and mastering. If the master is peaking higher, bring all faders down together rather than adjusting individual tracks.

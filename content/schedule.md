@@ -131,12 +131,12 @@ date: "2026-01-06"
 - No class - President's Day
 
 
-<!--
 ## Wednesday (2/18)
 
 - [Building raw balance](../posts/week-5/balance/)
-- Saxophone and other recordings for the class song
+- More recording for class song? 
 
+<!--
 ## Friday (2/20)
 
 - Finish up final recordings for the class song
