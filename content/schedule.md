@@ -136,7 +136,6 @@ date: "2026-01-06"
 - [Building raw balance](../posts/week-5/balance/)
 - More recording for class song? 
 
-<!--
 ## Friday (2/20)
 
 - Finish up final recordings for the class song
@@ -144,6 +143,7 @@ date: "2026-01-06"
   -  Look through [some options](https://cambridge-mt.com/ms/mtk/) and talk about what you're thinking about doing. 
   -  Look at some challenges with particular projects.
 
+<!--
 # Week 7 (2/23)
 
 ## Monday (2/23)
