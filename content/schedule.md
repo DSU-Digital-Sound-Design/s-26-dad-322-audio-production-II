@@ -143,7 +143,6 @@ date: "2026-01-06"
   -  Look through [some options](https://cambridge-mt.com/ms/mtk/) and talk about what you're thinking about doing. 
   -  Look at some challenges with particular projects.
 
-<!--
 # Week 7 (2/23)
 
 ## Monday (2/23)
@@ -152,6 +151,7 @@ date: "2026-01-06"
 
 
 
+<!--
 ## Wednesday (2/25)
 
 - [Compressing for a reason](../posts/week-5/compression/)
