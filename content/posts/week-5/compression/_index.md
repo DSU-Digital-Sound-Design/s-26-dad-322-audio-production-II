@@ -41,16 +41,16 @@ margin = 0.2
 - Threshold
 - Makeup Gain
 - Ratio
-- Attack, and Release
+- Attack and Release
 
 ---
 
 ## Threshold and Makeup Gain 
 
-- Definition and function of Threshold
+- Threshold: sets the level where compression begins
 - Peak Reduction vs. Input Gain
-- Importance of Makeup Gain
-- Practical tips for effective use
+- Makeup Gain compensates for volume lost during compression
+- Beginners: start with Threshold or Peak Reduction controls
 
 {{% note %}}
 
@@ -84,7 +84,7 @@ margin = 0.2
 
 ## Makeup Gain 
 
-*   **Definition:** Make-up Gain is a control on a compressor that **boosts the signal back up to its original level (or beyond)**, which is reduced when a compressor operates. It controls the desired output level with compression active. It allows you to compensate for the loss in loudness caused by the compressor.
+*   **Definition:** Make-up Gain is a control on a compressor that **boosts the output signal back up to its original level (or beyond)** after the compressor has reduced it. It controls the desired output level with compression active. It allows you to compensate for the loss in loudness caused by the compressor.
 *   **Primary Function:** The most important thing when setting a compressor is using the Make-up Gain parameter.
 *   **Maintaining Balance:** Make-up gain helps to **maintain the audible loudness and overall mix balance** when compression is applied. When the compressor is switched in and out of the signal path, the goal is to keep the sound in the same place in the mix.
 *   **Avoiding Misleading Impressions**: It's important to adjust the compressor's Make-up Gain control to compensate for any loudness increase. This is done so that bypassing the compressor doesn't boost the subjective volume, which can mislead you into over-processing.
@@ -126,7 +126,7 @@ margin = 0.2
 In summary, while automatic gain makeup may seem convenient, the sources suggest that it can lead to over-compression due to the perceived loudness increase. It may be preferable to manually adjust the gain to ensure more accurate control over the final sound. One should be super vigilant when matching the subjective loudness of the processed and unprocessed sounds for comparison purposes, because most loudness processors make it ridiculously easy to mug yourself in this way. It is essential to focus on the side effects, not the loudness hike. Therefore, manual adjustment is generally recommended for better control.
 
 
-- From here go to the mix and work on some of the tracks that you think might benefit from compression.
+- From here, go to the mix and work on some of the tracks that you think might benefit from compression.
 
 {{%/ note %}}
 
@@ -134,14 +134,14 @@ In summary, while automatic gain makeup may seem convenient, the sources suggest
 
 ## Starting with Compression: Choosing the Right Compressor
 
-- Selecting a compressor for mixing
-- Initial compressor setup and adjustments
-- Evaluating compression's impact on mix balance
-- Adjusting compression settings for optimal results
+- Model and price matter less than knowing how to use it
+- Start with presets; aim for at least 6 dB gain reduction on peaks
+- Goal: achieve a stable fader position in the mix
+- If over-compressed, try a different compressor or preset
 
 {{% note %}}
 
-- Choosing a compressor should focus more on understanding how to use it effectively rather than the model or price. Both Tony Visconti and Bob Clearmountain emphasize that a compressor's function is largely uniform across different models.
+- Focus more on understanding how to use a compressor effectively than on the model or price. Both Tony Visconti and Bob Clearmountain emphasize that a compressor's function is largely uniform across different models.
 - Start by inserting a compressor on the track in need, using presets as a starting point. Adjust the Threshold to achieve at least 6dB of gain reduction on peaks, and use Makeup Gain to compensate for level changes.
 - The goal is to stabilize the track's level within the mix. If initial settings don't solve the balance issue, further adjust the Threshold, even exploring extreme settings, to find a stable fader position.
 - Be cautious of over-compression, as it can detract from the mix's life and energy. If compression affects the track negatively, experiment with different compressors or presets to find the best fit. Remember, different compressors react differently to the same settings, providing a variety of tonal and dynamic outcomes.
@@ -152,10 +152,10 @@ In summary, while automatic gain makeup may seem convenient, the sources suggest
 
 ## When to Look Beyond Compression
 
-- Recognizing the limitations of compression
-- Exploring alternative processing solutions
-- Deciding between individual track vs. group channel compression
-- Making informed decisions on processing techniques
+- Compression can't solve every balance problem
+- Other processing techniques may be more appropriate
+- Individual track compression offers more precise control than group compression
+- Prioritize mix balance and musical quality above all
 
 {{% note %}}
 
@@ -170,16 +170,16 @@ In summary, while automatic gain makeup may seem convenient, the sources suggest
 
 ## Refining Compression Settings: Ratio Control
 
-- Definition
-- Impact on dynamic range
+- Ratio: how much compression is applied above the threshold
+- Higher ratios reduce dynamic range more aggressively
 - Example applications: slap bass, acoustic guitar
-- Adjusting ratios for optimal effect
+- Start moderate; adjust using the gain-reduction meter
 
 {{% note %}}
 
 ## Definition 
 
-*   **Definition**: Compression ratio is a control on a compressor/limiter that **determines how much compression or limiting will occur when the signal exceeds the threshold**. It sets how firmly the compressor reins in signals that overshoot the threshold level. It is measured on the basis of **input level to output level**.
+*   **Definition**: Compression ratio is a control on a compressor/limiter that **determines how much compression or limiting will occur when the signal exceeds the threshold**. It sets how firmly the compressor reins in signals that overshoot the threshold level. It is expressed as a ratio of **input level to output level**.
 *   **Function**:
     *   It effectively sets **how much the volume changes** once the signal exceeds the threshold setting.
     *   It determines the **slope of the input-to-output gain ratio**, which is the amount of input signal (in decibels) needed to cause a 1 dB increase at the compressor’s output.
@@ -207,10 +207,10 @@ In summary, **the compression ratio determines the degree to which the compresso
 
 ## Understanding Attack and Release Times
 
-- Role of Attack and Release Times
+- Attack and Release control how quickly the compressor responds
 - Addressing transient vs. sustain level differences
-- The impact of Attack and Release settings on musical dynamics
-- Adjusting for optimal balance and sound quality
+- Too fast = over-compressed transients; too slow = missed peaks
+- Adjust by ear; use the gain-reduction meter for visual feedback
 
 {{% note %}}
 
@@ -225,10 +225,10 @@ In summary, **the compression ratio determines the degree to which the compresso
 
 ## Tailoring Drum Compression: Attack and Release Settings
 
-- Effect of Attack and Release Times on Drum Sounds
+- Small timing changes yield very different drum sounds
 - Three configurations for snare drum compression
 - Automatic vs. Manual Attack and Release Times
-- Customizing compression for desired drum sound characteristics
+- Manual settings give more predictable, targeted results
 
 {{% note %}}
 
@@ -244,11 +244,11 @@ In summary, **the compression ratio determines the degree to which the compresso
 
 ## Compressing Lead Vocals: A Step-by-Step Guide
 
-- Staged Approach to Vocal Compression
-- Multing for Dynamic Range Management
-- Initial Compression Layer for Transparency
-- Handling Vocal Peaks with Additional Compression
-- Importance of Manual Fader Automation for Final Touches
+- Vocals need a staged approach due to their wide dynamic range
+- Stage 1: Split the track by dynamic range; use clip gain to pre-balance
+- Stage 2: Soft-knee compression at 2:1–3:1 for transparent leveling
+- Stage 3: Second compressor or limiter to catch remaining peaks
+- Manual fader automation is still needed for final vocal presence
 
 {{% note %}}
 
@@ -276,7 +276,8 @@ In summary, **the compression ratio determines the degree to which the compresso
 - Especially beneficial for transient-rich instruments, this technique allows for aggressive compression without sacrificing the clarity of the original performance, keeping the music's dynamics lively.
 - It's a favored technique among professionals for its ability to maintain the essence of the original sound while still benefiting from the sustain and body added by compression.
 - To counteract loudness bias and ensure a balanced mix, it's recommended to group both signals and adjust their overall level together, preventing the common pitfall of overemphasizing the processed signal.
-- In Reaper, we can do this using an FX container running in parallel with the original track. Then control the wet/dry mix of the container.
+- In Reaper, we can do this using an FX container running in parallel with the original track, then controlling the wet/dry mix of the container.
 
 {{%/ note %}}
+
 

@@ -151,7 +151,6 @@ date: "2026-01-06"
 
 
 
-<!--
 ## Wednesday (2/25)
 
 - [Compressing for a reason](../posts/week-5/compression/)
@@ -159,6 +158,7 @@ date: "2026-01-06"
 - Some listening: [Chapter 9: Compressing For A Reason](https://cambridge-mt.com/ms/ch9/)
 
 
+<!--
 ## Friday (2/27)
 
 - Looking at a few freeware compressors
