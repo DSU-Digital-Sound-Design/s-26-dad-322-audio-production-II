@@ -158,20 +158,20 @@ date: "2026-01-06"
 - Some listening: [Chapter 9: Compressing For A Reason](https://cambridge-mt.com/ms/ch9/)
 
 
-<!--
 ## Friday (2/27)
 
-- Looking at a few freeware compressors
-- Buss compression - "Glue Compressor"
-  - [Buss Compression](../posts/week-6/buss-compression/)
 - [Compression Lab](../posts/week-6/compression-lab/) 
   - Turn in the results by Monday. 
 - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
+- Looking at a few freeware compressors
 
+<!--
 # Week 8 (3/2)
 
 ## Monday (3/2)
 
+- Buss compression - "Glue Compressor"
+  - [Buss Compression](../posts/week-6/buss-compression/)
 - Beyond compression: 
   - [pres](../posts/week-6/beyond-compression/)
   - [example](../posts/week-6/beyond-compression/comp-ex/)
