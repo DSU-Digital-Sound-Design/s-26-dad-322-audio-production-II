@@ -24,6 +24,7 @@ This lab introduces the practical use of compression in audio mixing. You’ll i
 1. **MCompressor**: Visit [MeldaProduction](https://www.meldaproduction.com/MCompressor) to download and install MCompressor.
 2. **RoughRider 3**: Go to [Audio Damage Free And Legacy Products](https://www.audiodamage.com/pages/free-and-legacy) and download RoughRider 3.
 3. **TDR Kotelnikov**: Download TDR Kotelnikov from [Tokyo Dawn Records](https://www.tokyodawn.net/tdr-kotelnikov/).
+4. **Tukan – Compressor 2 (REAPER)**: Install via ReaPack by following this guide: [Free REAPER Plugins: Tukan](https://untidymusic.com/free-reaper-plugins/free-reaper-plugins-tukan). After you add/sync the Tukan repo in ReaPack, search for **Compressor 2** in **Extensions → ReaPack → Browse packages**, install it, then find it in the FX browser under **JS/JSFX** (search “Tukan”).
 
 
 #### Explore Compressor Settings
