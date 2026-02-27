@@ -165,7 +165,6 @@ date: "2026-01-06"
 - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
 - Looking at a few freeware compressors
 
-<!--
 # Week 8 (3/2)
 
 ## Monday (3/2)
@@ -173,11 +172,13 @@ date: "2026-01-06"
 - Buss compression - "Glue Compressor"
   - [Buss Compression](../posts/week-6/buss-compression/)
 - Beyond compression: 
-  - [pres](../posts/week-6/beyond-compression/)
-  - [example](../posts/week-6/beyond-compression/comp-ex/)
+  <!-- - [pres](../posts/week-6/beyond-compression/)
+  - [example](../posts/week-6/beyond-compression/comp-ex/) -->
+  - [transient & tempo plugins](../posts/week-6/beyond-compression/transient-plugins/)
   - And other plugins: [Chapter 10: Beyond Compression](https://cambridge-mt.com/ms/ch10/)
 
 
+<!--
 ## Wednesday (3/4)
 
 - Two options:
