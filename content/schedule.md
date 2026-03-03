@@ -178,13 +178,13 @@ date: "2026-01-06"
   - And other plugins: [Chapter 10: Beyond Compression](https://cambridge-mt.com/ms/ch10/)
 
 
-<!--
 ## Wednesday (3/4)
 
 - Two options:
   - Final recording on class song
   - Work on a mix as a class using techniques we've learned so far.
 
+<!--
 ## Friday (3/6)
 
 - [EQ Slides](../posts/week-8/EQ_slides.pdf)
