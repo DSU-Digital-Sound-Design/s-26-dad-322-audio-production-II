@@ -9,9 +9,9 @@ margin = 0.2
 ## The Critical Role of Equalization in Mixing
 
 - Extending the frequency range during mixing
-- Equalizers as the primary tool for achieving sonic enhancements
-- The importance of a natural sound and the means to achieve it
-- Experienced mixers' approach to EQ usage
+- Equalizers as the primary tool for shaping tone
+- Aiming for a natural sound, even with unconventional methods
+- Less is more: experienced mixers' approach to EQ
 
 {{% note %}}
 
@@ -19,7 +19,7 @@ margin = 0.2
   - Frequency Range Great mixers make sure that all audible frequencies are represented. The "tall" dimension in mixing refers to ensuring all frequencies are properly represented, especially the sparkly highs and powerful lows
 - Equalizers are pivotal in making tracks sound bigger, fatter, brighter, and clearer. Their effective use differentiates skilled mixers from novices.
 - Allen Sides emphasizes the goal of achieving a natural sound, regardless of the unconventional methods required, highlighting the significance of a trustworthy reference point.
-- Joe Chiccarelli’s statement reflects a minimalist approach to EQ, where less is often more, yet not hesitating to make bold adjustments when necessary.
+- Joe Chiccarelli's statement reflects a minimalist approach to EQ, where less is often more, yet not hesitating to make bold adjustments when necessary.
 
 {{%/ note %}}
 
@@ -29,7 +29,7 @@ margin = 0.2
 
 - Enhancing clarity and definition of instruments
 - Amplifying the size and presence of the mix
-- Harmonizing the mix by frequency range allocation
+- Giving each instrument its own frequency space
 
 {{% note %}}
 
@@ -41,7 +41,7 @@ margin = 0.2
 
 ---
 
-![](fig1.png)
+<img src="fig1.png" alt="EQ curve examples" style="width: 60%; height: auto;">
 
 ---
 
@@ -49,17 +49,21 @@ margin = 0.2
 
 ---
 
-## Fundamental EQ Techniques
+## Essential EQ Techniques and Tips
 
-- Tailoring EQ approaches to unique song characteristics
-- General methods to achieve desired sound qualities
-- The importance of careful listening and monitoring levels
+- Use narrow Q for cuts, wide Q for boosts
+- Roll off lows to cut through; roll off highs to blend in
+- Sparse mixes need wider EQ; dense mixes need tighter control
+- Two small boosts sound more natural than one large boost
+- Always check your EQ choices in the context of the full mix
 
 {{% note %}}
 
-- Each song's unique aspects—its arrangement, instruments, and performers—demand a customized approach to equalization, defying one-size-fits-all solutions.
-- Familiarizing oneself with various EQ techniques can serve as a foundation, aiding in quickly finding the appropriate sound adjustments for a mix.
-- Critical listening at moderate volume levels is essential for discerning subtle sound nuances, ensuring accurate EQ adjustments without being misled by speaker or ear non-linearities.
+- Using a narrow Q for cutting helps isolate and remove specific problem frequencies without affecting the surrounding sound, while a wide Q for boosting gently enhances a broader range, ensuring a more natural effect.
+- Rolling off the bottom end can help an instrument cut through the mix by reducing muddiness, whereas rolling off the top end can help it blend better by softening its presence.
+- In arrangements with fewer instruments, allowing each instrument more sonic space can lead to a fuller, richer sound. Conversely, in dense mixes, scaling back the presence of each instrument is crucial for clarity and cohesion.
+- Applying modest EQ boosts at two different frequencies can provide a more balanced enhancement than a significant boost at a single frequency, leading to a more nuanced sound.
+- An instrument may sound excellent on its own when EQ'd in isolation, but it's important to ensure that these adjustments still allow it to sit well within the full context of the mix, highlighting the importance of contextual EQ adjustments.
 
 {{%/ note %}}
 
@@ -67,10 +71,10 @@ margin = 0.2
 
 ## Equalization for Enhanced Definition
 
-- Addressing lifelessness in well-recorded material through EQ
-- Subtractive equalization for removing frequency maskings
-- Effective frequency ranges for subtractive EQ
-- The principle of minimalistic EQ application
+- Even well-recorded material can sound lifeless without EQ
+- Subtractive EQ: cutting frequencies that mask clarity
+- Key frequency ranges for subtractive EQ
+- Less is more: cut before you boost
 
 {{% note %}}
 
@@ -83,7 +87,7 @@ margin = 0.2
 
 ---
 
-## Method One: Definition 
+## Method One: Definition
 
 1. Starting with your EQ flat, remove all the bottom end below 100Hz by turning the low-frequency control to full cut.
 2. Using the rest of your EQ, tune the mid-upper midrange until the sound is thick yet distinct.
@@ -135,12 +139,12 @@ To equalize for size:
 ---
 
 
-## Method Three: Juggling frequencies 
+## Method Three: Juggling frequencies
 
-- Avoiding solo EQ adjustments to prevent conflicts
-- Ensuring each instrument occupies its unique frequency space
-- Techniques for balancing the rhythm section and vocals
-- Step-by-step process for integrating additional mix elements
+- Don't EQ instruments in solo — always listen in context
+- Give each instrument its own frequency space
+- Balancing the rhythm section and vocals
+- Step-by-step process for adding elements to the mix
 
 {{% note %}}
 
@@ -168,13 +172,21 @@ To equalize for size:
 
 ---
 
-## Golden Rules of EQ for Clarity and Impact
+## Golden Rules and Trouble Frequencies
 
-- Cutting at 250Hz for reducing muddiness
-- Cutting at 500Hz to eliminate honkiness
-- Preference for cutting over boosting to enhance sound quality
-- Boosting for distinctive sound alterations
-- Limitations on boosting absent frequencies
+- Cut at 250Hz to reduce muddiness
+- Cut at 500Hz to eliminate honkiness
+- Cut to improve sound quality; boost to change character
+- You can't boost what isn't there
+
+| Frequency | Problem |
+|-----------|---------|
+| 200Hz | Mud |
+| 300-500Hz | Boxiness |
+| 800Hz | "Cheap" sound |
+| 1-1.5kHz | Nasality |
+| 4-6kHz | Presence (lack = dull) |
+| 10kHz+ | Air |
 
 {{% note %}}
 
@@ -191,35 +203,7 @@ To equalize for size:
 - Apply **high-pass filters** to most tracks to clean low end
 - **EQ order matters**: before dynamics if compressor response needs improvement
 
-## Problem Frequency Zones
-- **200Hz** - muddiness/boominess
-- **300-500Hz** - boxiness
-- **400-800Hz** - excess can mask definition
-- **4-6kHz** - lack creates undefined sound
-
-## Bass/Kick Relationship
-- **Kick**: 60-80Hz for thump, 60-120Hz for small speaker audibility, 1-4kHz for attack
-- **Bass**: 80-250Hz for presence, allowing kick to dominate below
-{{%/ note %}}
-
-
----
-
-![](magic.png)
-
----
-
-## Key Trouble Frequency Areas in Mixing
-
-- 200Hz: Mud
-- 300 to 500Hz: Boxiness
-- 800Hz: "Cheap" Sound
-- 1k to 1.5kHz: Nasality
-- 4kHz to 6kHz: Presence
-- 10kHz+: Air
-
-{{% note %}}
-
+## Trouble Frequency Details
 - The 200Hz area is critical for achieving the right balance between fullness and clarity. Excess can lead to a muddy mix, while too little may result in a thin sound.
 - Frequencies between 300 and 500Hz are notorious for causing boxiness, particularly noticeable in lower quality microphones and certain drums, often requiring careful reduction.
 - The 800Hz range is associated with a cheap, tinny sound reminiscent of low-quality speakers, necessitating careful adjustment to avoid an overly "budget" audio quality.
@@ -227,17 +211,24 @@ To equalize for size:
 - The presence range (4kHz to 6kHz) is essential for definition and clarity. Underutilization leads to a dull sound, while overemphasis can cause harshness or sibilance.
 - Frequencies above 10kHz add "air" and a sense of space to recordings, enhancing realism and breathiness, especially important in vintage microphone recordings or to simulate such a quality with modern gear.
 
+## Bass/Kick Relationship
+- **Kick**: 60-80Hz for thump, 60-120Hz for small speaker audibility, 1-4kHz for attack
+- **Bass**: 80-250Hz for presence, allowing kick to dominate below
 {{%/ note %}}
+
+---
+
+![](magic.png)
 
 ---
 
 ## Balancing Bass and Drums for a Punchy Mix
 
 - Separate frequencies: kick (60-80Hz), bass (80-250Hz)
-- EQ kick: +60-120Hz for speakers, +1-4kHz for attack, -200-600Hz boxiness
-- EQ bass: +800Hz for clarity, use genre-specific boosts
-- Fix levels before EQ, compress together (3-6dB reduction)
-- High-pass kick ~30Hz, bass ~50Hz to prevent mud
+- Kick EQ: boost 60-120Hz for speakers, boost 1-4kHz for attack, cut 200-600Hz boxiness
+- Bass EQ: boost 800Hz for clarity, use genre-specific boosts
+- Fix levels before reaching for EQ; compress together (3-6dB reduction)
+- High-pass kick at ~30Hz, bass at ~50Hz to prevent mud
 
 {{% note %}}
 
@@ -262,31 +253,11 @@ To equalize for size:
 
 ## Professional Workflow Solutions
 - **Level management**: Adjust fader balance before reaching for EQ
-- **Compression strategies**: 
+- **Compression strategies**:
   - Even out bass notes with 4:1 ratio, medium attack
   - Bus both instruments to shared compressor (3-6dB reduction)
 - **Phase alignment**: Time-align DI and amp signals (typically 2-8ms adjustment)
 - **Reference comparison**: A/B with commercial tracks at matched volume
-
-{{%/ note %}}
-
----
-
-## Essential EQ Techniques and Tips
-
-- Adjusting Q values for precision in EQ adjustments
-- EQ strategies for mixing placement and texture
-- Managing instrument presence in varying mix densities
-- The art of subtle EQ enhancements
-- Balancing solo and mix contexts for instrument EQ
-
-{{% note %}}
-
-- Using a narrow Q for cutting helps isolate and remove specific problem frequencies without affecting the surrounding sound, while a wide Q for boosting gently enhances a broader range, ensuring a more natural effect.
-- Rolling off the bottom end can help an instrument cut through the mix by reducing muddiness, whereas rolling off the top end can help it blend better by softening its presence.
-- In arrangements with fewer instruments, allowing each instrument more sonic space can lead to a fuller, richer sound. Conversely, in dense mixes, scaling back the presence of each instrument is crucial for clarity and cohesion.
-- Applying modest EQ boosts at two different frequencies can provide a more balanced enhancement than a significant boost at a single frequency, leading to a more nuanced sound.
-- An instrument may sound excellent on its own when EQ'd in isolation, but it's important to ensure that these adjustments still allow it to sit well within the full context of the mix, highlighting the importance of contextual EQ adjustments.
 
 {{%/ note %}}
 
@@ -306,7 +277,7 @@ To equalize for size:
 
 - **Fatten the sound**: Boost midrange around 400Hz to create thickness without losing brightness
 - **Cut through the mix**: Add presence with 5-8kHz boost while rolling off excessive low end
-- **Balance with other instruments**: Listen for specific chords/strings and enhance selectively  
+- **Balance with other instruments**: Listen for specific chords/strings and enhance selectively
 - **Control presence and detail**: Add 1-5kHz for presence, 10kHz for string articulation
 - **Strategic filtering**: Use high/low-pass to prevent competition with bass and cymbals
 
@@ -314,7 +285,7 @@ To equalize for size:
 
 ---
 
-# Achieving Vocal Depth and Clarity with EQ
+## Achieving Vocal Depth and Clarity with EQ
 
 - **Subtractive EQ:** Cut boxiness (200-800Hz) and problem resonances (2-4kHz)
 - **High-Frequency Boosts:** Enhance presence (4-6kHz) and air (10kHz+) for definition
