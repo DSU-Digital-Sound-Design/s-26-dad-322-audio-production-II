@@ -184,16 +184,17 @@ date: "2026-01-06"
   - Final recording on class song
   - Work on a mix as a class using techniques we've learned so far.
 
-<!--
 ## Friday (3/6)
 
-- [EQ Slides](../posts/week-8/EQ_slides.pdf)
-- Listening to [EQ examples](https://cambridge-mt.com/ms/ch11/)
 - [Using EQ](../posts/week-8/using-eq/)
+- Extra resources: 
+  - Listening to [EQ examples](https://cambridge-mt.com/ms/ch11/)
+  - [EQ Slides](../posts/week-8/EQ_slides.pdf)
 
 > **Assignment**: [Editing 2 - Equalization](../assignments/eq-lab/) - start in class, due 3/11 at 2 pm
 
 
+<!--
 # Week 9 (3/9)
 
 ## Monday (3/9)
