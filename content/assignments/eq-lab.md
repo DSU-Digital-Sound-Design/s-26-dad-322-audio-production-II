@@ -12,7 +12,6 @@ Practice using EQ (and basic gating) to reduce spill/leakage, remove noise, and 
 
 ## What to Turn In
 
-- A rendered stereo mixdown for each section below (mp3 or wav is fine).
 - Your Reaper project file(s) used to create those renders.
 - Short notes (a few bullets per section) listing the main EQ moves you made (filters, rough frequencies, and why).
 
