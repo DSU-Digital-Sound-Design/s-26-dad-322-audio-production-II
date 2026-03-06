@@ -60,11 +60,12 @@ Various types of distortion, ranging from soft to hard:
 
 Here are some cool freeware plugins:
 
-- Distox by Analog Obsession
+- [Distox](https://plugins4free.com/plugin/3365/) by Analog Obsession
 - [Cypress TT-15 - free guitar amp head - Black Rooster Audio](https://blackroosteraudio.com/en/products/cypress_tt-15)
 - [PA FREE bx_rockrack V3 Player - Plugin Alliance](https://www.plugin-alliance.com/en/products/bx_rockrack_v3_player.html#downloads)
 - Medla plugins: MBitFunMac , MSaturatorMac , MWaveFolderMac & MWaveShaperMac
-- Voxengo Tube Amp, Boogex
+- [Voxengo](https://www.voxengo.com/group/free-vst-plugins-download/) - Tube Amp, Boogex
+- Noise Engineering's [Ruina](https://noiseengineering.us/products/the-freequel-bundle-sinc-vereor-virt-vereor-ruina/) 
 - Native Instruments Guitar Rig 6 - Very slow on my computer
 - Many plugins from [Ignite Amps](https://www.igniteamps.com/#software)
 

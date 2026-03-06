@@ -194,12 +194,12 @@ date: "2026-01-06"
 > **Assignment**: [Editing 2 - Equalization](../assignments/eq-lab/) - start in class, due 3/11 at 2 pm
 
 
-<!--
 # Week 9 (3/9)
 
 ## Monday (3/9)
 - [Beyond equalization](../posts/week-9/beyond-equalization/)
 
+<!--
 ## Wednesday (3/11)
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
 - EQ Lab due by 2 pm today.
