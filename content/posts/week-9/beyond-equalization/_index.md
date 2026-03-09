@@ -45,7 +45,6 @@ Various types of distortion, ranging from soft to hard:
 *   **Send/Parallel Processing:** This is often preferred as it offers more control over what the distortion adds. You can drive the distortion hard for dense harmonics but mix it in at a moderate level with the unprocessed track. EQ can be applied to the distortion return to focus the added spectral energy. Be mindful of potential phase mismatches.
 *   **Frequency-Selective Distortion:** Focusing distortion on specific frequency ranges can be useful for emphasizing an instrument without it taking up too much space in the mix, such as distorting only the high end of a bass to make it cut through. Some distortion effects have built-in crossover or pre-emphasis filters for this.
 *   **Distortion in Stages:** Similar to a guitar chain (stompboxes, preamp, power amp, speakers), distortion can occur at multiple points. Varying the gain at each stage affects the dynamics, timbre, and harmonic density.
-*   **Blending Distortion with the Original:** This technique allows you to capitalize on the distorted timbre while retaining the original peaks, preventing the mix from sounding "overcooked". Ensuring the original and distorted signals are in phase is important.
 *   **Distorted Delay:** Adding aggressive distortion to a slapback delay applied to a vocal can retain an overdriven character in the mix while maintaining vocal intelligibility.
 
 
