@@ -100,8 +100,8 @@ Also, add harmonic distortion, but in a different way to distortion plugins. Exc
   - Exciter - LOSER
   - Compciter - LOSER
   - Exciter (Treble Enhancer) - Stillwell
-- Airwindows - Exciter
-- Tukan - Exciter with Fat Bottom
+- Airwindows - [Exciter](https://www.airwindows.com/exciter/)
+- Tukan - Exciter+Sub (Tukan) - Type C copy – Exciter and Subbass
 
 # Low-end enhancements
 
@@ -122,8 +122,8 @@ Reaper has a built-in plugin called 50 Hz Kicker and another called Thunderkick.
 
 Freeware that I have tried:
 
-- Thump by Metric Halo
-- bx_subfilter - this one sounds pretty good
+- [Thump by Metric Halo](https://www.metric-halo.com/thump)
+- [bx_subfilter](https://www.plugin-alliance.com/products/bx_subfilter) - this one sounds pretty good
 
 Let's try using Thump on our drum track to add some more low-end to the kick drum. I'll create a send and add Thump to the send. I'll also add a low pass filter so that we're only affecting the low frequencies.
 
