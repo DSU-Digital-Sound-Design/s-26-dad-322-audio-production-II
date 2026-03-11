@@ -199,11 +199,11 @@ date: "2026-01-06"
 ## Monday (3/9)
 - [Beyond equalization](../posts/week-9/beyond-equalization/)
 
-<!--
 ## Wednesday (3/11)
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
 - EQ Lab due by 2 pm today.
 
+<!--
 ## Friday (3/13)
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
 

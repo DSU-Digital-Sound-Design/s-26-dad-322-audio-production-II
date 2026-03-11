@@ -131,6 +131,8 @@ Let's try using Thump on our drum track to add some more low-end to the kick dru
 
 If this isn't working out so well we can try drum triggering. We can gate the drum track filtering out anything but the kick drum. Then we can send that MIDI data to a sampler and play anything we want.
 
+See a tutorial on this here: [Drum Triggering in Reaper](https://youtu.be/PTNy4SYRNbo?si=yJLYabv6vrdZpxFP)
+
 An alternative is Steven Slates's Trigger 2 Free. It has other useful features if you're doing this a lot.
 
 # Synth pads
