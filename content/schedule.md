@@ -203,12 +203,13 @@ date: "2026-01-06"
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
 - EQ Lab due by 2 pm today.
 
-<!--
 ## Friday (3/13)
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
 
-> Introduce presentations. 
+> Introduce presentations (See D2L, proposals due April 3rd). 
+> See "Class Song" guidelines (Due March 30th).
 
+<!--
 # Week 10 (3/16)
 
 - Spring Break - No Classes
