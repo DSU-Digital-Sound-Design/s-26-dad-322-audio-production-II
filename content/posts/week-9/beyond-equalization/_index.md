@@ -90,9 +90,8 @@ Also, add harmonic distortion, but in a different way to distortion plugins. Exc
     *   **Even harmonics** tend to make sounds soft, warm, and full.
     *   **Odd harmonics** tend toward metallic, hollow, and bright sounds.
     *   **Lower-order harmonics** control basic timbre, while **higher-order harmonics** control the edge or bite of the sound.
-*   **Examples:** The [**Aphex Aural Exciter**](https://aphex.com/products/exciter) is a classic example of a processor that adds overtones to the high frequencies. REAPER includes basic Exciters from SStillwell and LOSER, as well as LOSER’s **Compciter**, which combines an Exciter with a Compressor.
+*   **Examples:** The [**Aphex Aural Exciter**](https://aphex.com/products/exciter) is a classic example of a processor that adds overtones to the high frequencies.
 *   **Usage Considerations:**
-    *   When using an exciter, it's recommended to **start with default settings and make gentle adjustments**, especially to the **Drive** setting, to avoid making the mix too loud.
     *   Using an exciter on the entire mix might **eat up depth and the distinction between parts in the high end**, so it might be better suited for individual elements.
     *   The definition produced by exciters can be considered "**fake**" in a way, so relying on them to save a mix might indicate underlying issues.
 
@@ -102,6 +101,7 @@ Also, add harmonic distortion, but in a different way to distortion plugins. Exc
   - Exciter (Treble Enhancer) - Stillwell
 - Airwindows - [Exciter](https://www.airwindows.com/exciter/)
 - Tukan - Exciter+Sub (Tukan) - Type C copy – Exciter and Subbass
+- [Stimulate](https://www.patreon.com/posts/stimulate-plugin-64547471) - A harmonic exciter plugin - has odd and even harmonic controls. 
 
 # Low-end enhancements
 

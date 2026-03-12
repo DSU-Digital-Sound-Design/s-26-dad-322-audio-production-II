@@ -228,13 +228,12 @@ date: "2026-01-06"
   - Effects on synth pads for movement 
     - Chorus, Tremolo, Vibrato 
     - Also look at Sound Toys for these effects
-- [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/)
 
 --> 
 <!-- 
 ## Wednesday (3/25)
 
-- Out of town 
+- [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/) 
 
 ## Friday (3/27)
   
