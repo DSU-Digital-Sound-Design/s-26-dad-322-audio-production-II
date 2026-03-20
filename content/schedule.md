@@ -204,23 +204,24 @@ date: "2026-01-06"
 - EQ Lab due by 2 pm today.
 
 ## Friday (3/13)
-- Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
 
-> Introduce presentations (See D2L, proposals due April 3rd). 
-> See "Class Song" guidelines (Due March 30th).
+- Class canceled
 
-<!--
 # Week 10 (3/16)
 
 - Spring Break - No Classes
-
 
 # Week 11 (3/23)
 
 ## Monday (3/23)
 
-- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 
+- Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
+  
+> Introduce [Teaching a Lesson](../projects/) project (proposals due April 3rd).
+> See "Class Song" guidelines (Due March 30th).
+
+<!--
 <!-- 
 - Lake County Museum Podcast internship opportunity
 
@@ -233,6 +234,7 @@ date: "2026-01-06"
 <!-- 
 ## Wednesday (3/25)
 
+- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 - [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/) 
 
 ## Friday (3/27)

@@ -5,7 +5,42 @@ author: ""
 ---
 
 {{< toc >}}
-<!-- 
+
+# Teaching a Lesson
+
+Teach a 25 minute lesson on a topic related to audio production. You can go deeper on something we have covered in class, or explore something entirely new. If you choose a topic we have already covered, present it in a new way so we learn something new about it — for example, apply a technique to a different style of music, demonstrate a different workflow, or show how different plugins handle the same task. It can be a lecture style presentation with musical examples, or a discussion led by you, or a more hands on project based lesson. We will leave 5 minutes for questions and to switch between lessons.
+
+## Proposal
+
+Explain what you will cover in your lesson and how you will present this material. Turn in your proposal to D2L by **April 3rd**.
+
+## Possible Topics
+
+- Drum quantization and editing with multi-tracks
+- Tuning vocals with ReaTune (manual and automatic)
+- Vocal alignment techniques
+- Takes, comping, and punching in
+- Tempo mapping
+- Pre-mixing checklist and project organization
+- Panning and stereo imaging
+- Mix referencing and critical listening
+- Compression (when, why, and how to compress)
+- Buss and glue compression
+- Gating and removing spill
+- Transient design
+- Frequency-selective dynamics (multiband compression, dynamic EQ)
+- Using EQ for corrective and creative purposes
+- Harmonic distortion, exciters, and saturation
+
+## Presentation Formats
+
+- **Live demo** - walk through a technique in Reaper with before/after examples
+- **Lecture with musical examples** - use slides and audio clips to explain a concept
+- **Hands-on workshop** - have classmates follow along in Reaper on their own sessions
+- **A/B comparison** - compare different approaches, plugins, or settings on the same material
+- **Discussion** - lead a conversation around a topic using listening examples
+
+<!--
 # Project 1 - preliminary mix tasks
 
 
