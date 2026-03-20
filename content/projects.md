@@ -40,6 +40,48 @@ Explain what you will cover in your lesson and how you will present this materia
 - **A/B comparison** - compare different approaches, plugins, or settings on the same material
 - **Discussion** - lead a conversation around a topic using listening examples
 
+# Mixing 2: Class Song Mix
+
+Complete a full mix of our class song. This project brings together all the techniques we have covered this semester. You are responsible for creating an arrangement from the parts we recorded — it is up to you how long each part goes on for and how many parts are happening at once. Feel free to loop sections or time stretch them. The project files are a little bit loose, but it's your responsibility to turn them into a cohesive production. The arrangement should be at least 3 minutes long.
+
+<!-- Download the class song session files [here](). -->
+
+## Tasks
+
+1. **Project organization** — label and color-code tracks, set up folders and routing 
+2. **Regions and markers** — add regions delineating song sections ([Tempo mapping](../posts/week-3/monday/timing-and-tuning/))
+3. **Rhythmic quantization** — quantize drums and any other tracks that need tightening ([Drum quantization](../posts/week-3/wednesday/))
+4. **Pitch correction** — tune vocals and any pitched instruments that need it ([Tuning with ReaTune](../posts/week-4/tuning/))
+5. **Gating on drums** — clean up spill between drum mics 
+6. **Balance** — use item gain to remove clipping, then set an initial fader balance ([Building raw balance](../posts/week-5/balance/))
+7. **Panning** — place tracks in the stereo field 
+8. **EQ** — high-pass filter every track and use corrective/creative EQ ([Using EQ](../posts/week-8/using-eq/))
+9. **Dynamics processing** — compression, buss compression, and transient design ([Compression](../posts/week-5/compression/), [Buss compression](../posts/week-6/buss-compression/))
+10. **Reverb and delay** — add space and depth to the mix ([Mixing with reverb](../posts/week-9/mixing-with-reverb/), [Reverb](../posts/week-12/reverb/), [Delays](../posts/week-14/delays/))
+
+## Additional Guidelines
+
+- Synthetic material, including synth keyboard lines, can only be added if it reinforces or adds depth to something already recorded in the mix, such as a kick enhancement or drum trigger.
+- You may record additional elements if you think they're necessary, e.g. vocals.
+- If you use plugins that are not stock Reaper plugins they must be free and cross platform (Windows and Mac).
+- Listen to your mix on the studio mains, the Behritone, and headphones. Write a short paragraph about what differences you heard between the speakers and how you accounted for them.
+
+**Turn in** a consolidated version of the mix file and your listening notes to D2L by **March 30th**.
+
+## Rubric
+
+| Category | Points |
+|---|---|
+| Project organization (labeling, folders, regions) | 5 |
+| Editing (quantization, pitch correction) | 8 |
+| Gating (drum spill cleanup) | 5 |
+| Balance and panning | 8 |
+| EQ | 8 |
+| Dynamics processing (compression, transient design) | 8 |
+| Reverb and delay | 5 |
+| Listening notes (mains, Behritone, headphones) | 3 |
+| **Total** | **50** |
+
 <!--
 # Project 1 - preliminary mix tasks
 
