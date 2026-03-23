@@ -219,6 +219,7 @@ date: "2026-01-06"
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
   
 > Introduce [Teaching a Lesson](../projects/) project (proposals due April 3rd).
+> 
 > See "Class Song" guidelines (Due March 30th).
 
 <!--
