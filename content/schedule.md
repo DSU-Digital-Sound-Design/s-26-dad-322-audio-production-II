@@ -232,15 +232,13 @@ date: "2026-01-06"
     - Also look at Sound Toys for these effects
 
 --> 
-<!-- 
 ## Wednesday (3/25)
 
 - [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
-- [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/) 
 
+<!-- 
 ## Friday (3/27)
   
-- Listen to projects
 - Keep thinking of your lesson plan and proposal (Due April 3rd)
 - More [reverb](../posts/week-12/reverb/)
 
@@ -248,12 +246,13 @@ date: "2026-01-06"
 
 ## Monday   (3/30)
 
-- Listen to your class song mixes
+- More [reverb](../posts/week-12/reverb/)
 - talk about what you're thinking of doing for your lesson. 
 
 ## Wednesday (4/1)
 
-- More [reverb](../posts/week-12/reverb/)
+- Listen to projects
+- [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/) 
 - didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
 
 ## Friday (4/3)

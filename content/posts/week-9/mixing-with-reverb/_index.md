@@ -99,7 +99,8 @@ Again, view the [ReaEffects guide](https://user.cockos.com/~glazfolk/ReaEffectsG
 
 ### Other good reverb plugins:
 
-- MCharmVerb
-- MConvolutionEZ
-- PSP PianoVerb
-- Valhalla Supermassive
+- [MCharmVerb](https://www.meldaproduction.com/MCharmVerb)
+- [MConvolutionEZ](https://www.meldaproduction.com/MConvolutionEZ)
+- [PSP PianoVerb](https://www.pspaudioware.com/products/psp-pianoverb)
+- [PSP Chamber](https://www.pspaudioware.com/products/psp-chamber)
+- [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
