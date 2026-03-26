@@ -10,14 +10,14 @@ Let's go back to our uses for reverb:
 - Sustain
 - Spread
 
-Finding good settings and sounds for each of these uses takes a lot of trial and error. Because of that we'll install many different types of free reverb plugins and spend class trying them out on different musical elements. The Reaper reverbs are good starts, but it's always nice to have more options, especially with something like reverb.
+Finding good settings takes trial and error, so we'll install many free reverb plugins and try them on different musical elements. The Reaper reverbs are good starts, but different algorithms suit different uses, so more options help.
 
-Let's download and install the following reverb plugins:
+Download and install the following reverb plugins:
 
 - Basics:
   - [OrilRiver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov)
-  - [Sanford](https://www.lesliesanford.com/vst/plugins/) - PC Only
-  - [Ambience](http://magnus.smartelectronix.com/#Ambience) - Won't load for me
+  - [Sanford](https://www.lesliesanford.com/vst/plugins/) - PC only
+  - [Ambience](http://magnus.smartelectronix.com/#Ambience) - may not load on all systems
 - Creative plugins for tone and sustain
   - [PSP PianoVerb](https://www.pspaudioware.com/products/psp-pianoverb)
   - [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
@@ -28,12 +28,12 @@ Let's download and install the following reverb plugins:
   - [TAL Reverb 2 + 3](https://tal-software.com/products/tal-reverb)
   - [TAL Reverb 4](https://tal-software.com/products/tal-reverb-4)
   - [Protoverb](https://u-he.com/products/protoverb/)
-  - [Xhip Reverb](http://xhip.net/effects/?p=Reverb) - The GUI doesn't load for me
+  - [Xhip Reverb](http://xhip.net/effects/?p=Reverb) - GUI may not load on all systems
 - Convolution
   - [MConvolutionEZ](https://www.meldaproduction.com/MConvolutionEZ)
-- new this year: 
+- New to this course:
   - [TENS jr.](https://www.audiopluginsforfree.com/tens-jr/) - great sounding spring 
-  - [Flex Reverb](https://www.audiopluginsforfree.com/flex-reverb/) - sort of boring sounding, but good interface
+  - [Flex Reverb](https://www.audiopluginsforfree.com/flex-reverb/) - flat-sounding, but clean interface
   - [Reverb | Airwindows](https://www.airwindows.com/category/reverb/)
   - [FogPad - Reverb plugin](https://www.igorski.nl/download/fogpad)
 
@@ -41,7 +41,7 @@ Let's go to [Mike's page](https://cambridge-mt.com/ms/ch16/) for some advice on 
 
 ## Size
 
-Let's follow Mike's method for finding a reverb preset for blend/size that sounds good. He uses [this drum sound](https://audio.cambridge-mt.com/MSFTSS/Ch16/MS1601_Preset0Dry.wav) played through different reverbs to compare them. Create a new project and include this sample. Create a reverb bus and send the drum sample through it.
+Follow Mike's method for finding a reverb preset for blend/size. He plays [this drum sound](https://audio.cambridge-mt.com/MSFTSS/Ch16/MS1601_Preset0Dry.wav) through different reverbs to compare them. Create a new project with this sample, then create a reverb bus and send the drum through it.
 
 Find an instrument that could have a larger size in the mix. Use the suggestions from the book to find a good preset for the instrument.
 
@@ -49,9 +49,9 @@ Find an instrument that could have a larger size in the mix. Use the suggestions
 
 I'll try OrilRiver for this. If you could get Sanford or Ambience to work those are also good options. Let's check out the [manual](orilriver-manual.pdf). Let's explore the settings of this reverb.
 
-Try turning off the reverb tail so that you can listen only to the early reflections variations. Adjust the room size parameter to hear the early reflections more. Then do the same with the reverb tail, turning the early reflections off.
+Try turning off the reverb tail to hear only the early reflections. Adjust the room size parameter to hear how they change. Then do the reverse: turn off early reflections and listen to the tail alone.
 
-Play with the room size parameter. This seems to affect mostly the early reflections.
+The room size parameter mostly affects the early reflections.
 
 Try to mimic the first 4 presets that Mike lists on [his site](https://cambridge-mt.com/ms/ch16/).
 
@@ -64,13 +64,20 @@ Try to mimic the first 4 presets that Mike lists on [his site](https://cambridge
 
 ## Blend
 
-You'll want the most natural sounding reverbs for the blending process. Pay special attention to the predelay settings. Predelay cues us into the size of the room. In a large room, the pre-delay would be longer, because it would take more time for the reflections to reflect and come back to the listener. Generally use a predelay between 10-20ms.
+Use the most natural-sounding reverbs for blending. Pay special attention to predelay settings. Predelay indicates the size of the room — in a large room, predelay is longer because reflections take longer to return to the listener. Generally use a predelay between 10-20ms.
 
 Try to blend like elements. Drums should blend, vocals and background vocals, horn sections.
 
-> When working with multiple tracks of the same type, you may want to control the send amounts at the same time. There's no easy way to group these send amounts, but we'll use a different method.
-> Create a new track and call it `Drum Verb`. Move your FX over to that track by clicking the FX icon and dragging with the `option` key held down. Rename your original reverb track to `Drum Verb Send`. Take the `Drum Verb Send` track out of the master parent send by clicking on the routing and unchecking the `Parent send` checkbox. Finally route the `Drum Verb Send` track to the `Drum Verb` track. Now you have a master control over the send levels of all of the drum tracks. Now it's really easy to automate this reverb as a group. Let's try this now.
+When working with multiple tracks of the same type, you may want to control the send amounts together. Here's one method:
+
+> 1. Create a new track called `Drum Verb`.
+> 2. Move your FX to that track by clicking the FX icon and dragging with `option` held down.
+> 3. Rename your original reverb track to `Drum Verb Send`.
+> 4. Remove `Drum Verb Send` from the master parent send: click routing and uncheck `Parent send`.
+> 5. Route `Drum Verb Send` to `Drum Verb`.
+>
+> You now have a master control over the send levels for all drum tracks, making it easy to automate reverb as a group.
 
 ## Tone and sustain
 
-Let's move on to the tone and sustain reverbs. These are more about creatively enhancing the character of the sound. The goal here is not to make the sounds act like they're coming from large spaces but to change the overall tone of the sound. These do not need to sound natural, unlike the blend and size reverb. Spend some time looking through your reverbs to find the ones that create unique sounds.
+Unlike blend and size reverbs, tone and sustain reverbs can sound unnatural. The goal isn't to simulate a space but to reshape the sound's character. Spend time exploring your reverbs to find ones that produce distinctive textures.

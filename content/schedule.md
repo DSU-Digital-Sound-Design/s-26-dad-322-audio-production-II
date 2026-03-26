@@ -236,12 +236,12 @@ date: "2026-01-06"
 
 - [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 
-<!-- 
 ## Friday (3/27)
   
 - Keep thinking of your lesson plan and proposal (Due April 3rd)
 - More [reverb](../posts/week-12/reverb/)
 
+<!-- 
 # Week 12 (3/30)
 
 ## Monday   (3/30)
