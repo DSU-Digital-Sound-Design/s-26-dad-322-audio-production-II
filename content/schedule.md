@@ -241,7 +241,6 @@ date: "2026-01-06"
 - Keep thinking of your lesson plan and proposal (Due April 3rd)
 - More [reverb](../posts/week-12/reverb/)
 
-<!-- 
 # Week 12 (3/30)
 
 ## Monday   (3/30)
@@ -249,6 +248,7 @@ date: "2026-01-06"
 - More [reverb](../posts/week-12/reverb/)
 - talk about what you're thinking of doing for your lesson. 
 
+<!-- 
 ## Wednesday (4/1)
 
 - Listen to projects
