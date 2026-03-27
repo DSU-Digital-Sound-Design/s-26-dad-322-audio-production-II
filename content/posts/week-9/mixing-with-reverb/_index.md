@@ -33,7 +33,7 @@ Now we mostly use plugins for reverb, but reverb predates digital effects. Some 
 Reaper stock plugins:
 
 - ReaVerb
-- ReaVerberate
+- ReaVerbate
 
 See the [ReaEffects guide](https://www.reaper.fm/guides/REAPEREffectsGuide2021.pdf) for more details.
 
@@ -102,10 +102,20 @@ View the [ReaEffects guide](https://user.cockos.com/~glazfolk/ReaEffectsGuide.pd
 - Reverse
 - Time/Gain/Stretch - combined with reverse, creates a riser effect
 
-### Other good reverb plugins:
 
-- [MCharmVerb](https://www.meldaproduction.com/MCharmVerb)
-- [MConvolutionEZ](https://www.meldaproduction.com/MConvolutionEZ)
-- [PSP PianoVerb](https://www.pspaudioware.com/products/psp-pianoverb)
-- [PSP Chamber](https://www.pspaudioware.com/products/psp-chamber)
-- [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+### Quick in-class exercise: ReaVerb vs. ReaVerbate
+
+Places to look for impulse responses:
+
+- [OpenAIR Library](https://openairlib.net/) - a very good source for real acoustic spaces.
+- [EchoThief](https://www.echothief.com/downloads/) - lots of unusual and characterful spaces.
+- [Voxengo Impulses](https://www.voxengo.com/impulses/) - a quick set of free IRs that works well for practice.
+
+1. Find three contrasting impulse responses to try in ReaVerb. Choose clearly different spaces or textures, such as a small room, a plate, a spring, or a long hall.
+2. Load each impulse response into ReaVerb on the same track or bus and listen to how the sound changes.
+3. Pick one impulse response to focus on. 
+4. Replace ReaVerb with ReaVerbate on the same source.
+5. Try to mimic the character of that impulse response using only ReaVerbate's controls: room size, dampening, initial delay, stereo width, and the highpass/lowpass filters.
+6. Switch back and forth between the ReaVerb version and the ReaVerbate version until you get as close as you can.
+7. If we have more time, try to mimic the other two impulse responses as well.
+8. Be ready to share which impulse response you chose and which parts were easiest or hardest to imitate with an algorithmic reverb.
