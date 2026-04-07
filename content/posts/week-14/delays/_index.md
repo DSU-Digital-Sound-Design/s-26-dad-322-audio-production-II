@@ -26,9 +26,31 @@ Create a delay send track and route your vocal to it. Add `ReaDelay` to the `Del
 
 Set `Length (musical)` to `2`, increase feedback, and filter the repeats to thin them out.
 
-Automate the delay using the same method from the dynamic reverb lesson.
+### Key steps to create dynamic delay
 
-Now try the same approach with a compressor after the delay. Drag the vocal track routing icon onto the compressor so track channels `1/2` feed auxiliary channels `3/4`. Set detector input to `Auxiliary Inputs`. Set attack and release to `0`, and set ratio to `inf`. Then lower threshold until you hear mostly delayed signal when the vocal pauses. Finally, lengthen release for a subtler effect.
+Prepare the effect: add a delay plugin (`ReaDelay`) to your vocal track or delay bus. Dial in a wetter sound for phrase gaps, then a drier sound for active vocal lines.
+
+Setup parameter modulation:
+
+- Open the Parameter Modulation window for the delay `Wet` control.
+- Enable `Audio control signal` and link it to the vocal input channels.
+
+Configure modulation settings:
+
+- Set baseline to your target wet level.
+- Set direction to negative so delay wet level drops when vocals are present.
+- Adjust minimum volume and strength to control how far wet level dips while the singer is active.
+
+Refine timing: tune attack and release so delay transitions quickly but smoothly between sung phrases and pauses.
+
+Now try a sidechained compressor on the `Delay` bus:
+
+- Keep your dry vocal on the original `Vocal` track.
+- Put a compressor after `ReaDelay` on the separate `Delay` bus track.
+- Drag the `Vocal` track routing icon onto the compressor so vocal channels `1/2` feed sidechain channels `3/4`.
+- In the compressor, set detector input to `Auxiliary Inputs`, set attack and release to `0`, and set ratio to `inf`.
+- Lower threshold until delay is reduced while the singer is active and becomes more audible in the gaps.
+- Lengthen release slightly for a smoother, subtler transition.
 
 > Create your own dynamic delay on a synth part with spaces in it. Program the delay to turn on only when the synth pauses. Use any synth; if you need one, try [Vital Synth](https://vital.audio/).
 
