@@ -1,48 +1,48 @@
 ---
-title: "Mixing with delays"
+title: "Mixing with Delays"
 ---
 
-> Let's first listen to [Mike Senior's examples](https://cambridge-mt.com/ms/ch17/) of delay for mixing
+> First, listen to [Mike Senior's delay examples](https://cambridge-mt.com/ms/ch17/).
 
 ## Delays in Reaper
 
-Delays are a very close cousin to reverb. Where reverb is many repeats of a sound happening very close together, delay has repeats that are happening more spaced apart.
+Delay is a close cousin of reverb. Reverb creates many repeats packed tightly together; delay creates repeats spaced farther apart.
 
-Open the Reaper starter project [here](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/Eu21oE1GkClLoqCG_joBRawB_Z6nDF-dYYNT-rOoMzAStg?e=epotLO). Then, add a `ReaDelay` plugin to the `Flute` track. The delay time is set using the `Length (musical)` parameter by default. Find that parameter and adjust it to taste, preferably a whole number. You might hear that the delays are not in time. To fix this, set the correct project tempo.
+Open the Reaper starter project [here](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/Eu21oE1GkClLoqCG_joBRawB_Z6nDF-dYYNT-rOoMzAStg?e=epotLO). Add `ReaDelay` to the `Flute` track. By default, delay time uses `Length (musical)`. Adjust it to taste, preferably to a whole number. If the repeats feel out of time, set the correct project tempo.
 
-Next, increase the `Feedback` parameter to hear the delays repeated for longer. Finally, adjust the filter section to add color to the delayed repeats.
+Next, raise `Feedback` to hear longer repeat trails. Then adjust the filter section to color the repeats.
 
-Let's create a stereo multi-tap delay. Pan your first delay tap to the left. Then create another tap and pan that to the right. You can create complex rhythms by adjusting the delay times of the taps.
+Create a stereo multi-tap delay. Pan the first tap left. Create a second tap and pan it right. Build complex rhythms by changing the tap times.
 
-We can also set the delay time in milliseconds instead of the tempo. For example, setting the delay time at about 100 ms will create a slapback echo delay.
+You can also set delay time in milliseconds instead of musical values. Around `100 ms` creates a slapback echo.
 
-> Do your own delay experiments on the spoken word vocal. Try to create something interesting with multiple delay taps. Try experimenting with more ReaDelays in series to get more complex effects.
+> Run your own delay experiments on the spoken-word vocal. Build a texture with multiple taps, then try chaining several `ReaDelay` instances in series for more complex effects.
 
 ## Dynamic delay
 
-This technique is very similar to the dynamic reverb technique we learned a few weeks ago. The delay will come in and out based on the dynamics of the signal.
+This technique is similar to the dynamic reverb method from earlier weeks. The delay comes in and out based on signal dynamics.
 
-Create a delay send track and send your vocal track to it. Then, add a `ReaDelay` plugin to the `Delay` track. Turn off the dry sound because it's coming from the vocal track.
+Create a delay send track and route your vocal to it. Add `ReaDelay` to the `Delay` track. Turn off the dry signal because the dry vocal already comes from the source track.
 
-Set the musical length to 2, increase the feedback, and filter the repeats to make them thinner.
+Set `Length (musical)` to `2`, increase feedback, and filter the repeats to thin them out.
 
-Try to automate the delay using the same method we learned in the dynamic reverb lesson.
+Automate the delay using the same method from the dynamic reverb lesson.
 
-Now, try the same technique but use a compressor after the delay effect. Drag the routing icon of the vocal track onto the compressor to connect track channels 1/2 to auxiliary channels 3/4. Then set the detector input to `Auxillary inputs.` Next, turn the attack and release to 0 and the ratio to inf. Now, set the threshold so only the delayed signal is heard when the vocals are paused. Finally, adjust the release time for a more subtle effect.
+Now try the same approach with a compressor after the delay. Drag the vocal track routing icon onto the compressor so track channels `1/2` feed auxiliary channels `3/4`. Set detector input to `Auxiliary Inputs`. Set attack and release to `0`, and set ratio to `inf`. Then lower threshold until you hear mostly delayed signal when the vocal pauses. Finally, lengthen release for a subtler effect.
 
-> Create your own dynamic delay on a synth track with spaces in it. Then, program the delay only to turn on when the synth is paused. You can use whatever synth you want; if you don't have one, try [Vital Synth](https://vital.audio/).
+> Create your own dynamic delay on a synth part with spaces in it. Program the delay to turn on only when the synth pauses. Use any synth; if you need one, try [Vital Synth](https://vital.audio/).
 
 ## Automated delay
 
-We can do a similar technique to dynamic delay but only have the delay turn on for specific notes or syllables, giving us more control. We'll do this by automating the delay mute. Then, set up a delay send track the same as before, and send your vocal track to it.
+This is similar to dynamic delay, but the effect turns on only for selected notes or syllables. You get tighter control by automating delay mute. Set up a delay send track as before and route the vocal to it.
 
-Open the envelopes window of the vocal track and find the send envelopes section, then select the delay send mute. Set the envelope so that the mute is only off for the word "then". Pay special attention to the rhythm of both times the delay is heard. Try to match them.
+Open the vocal track envelopes window. In `Send Envelopes`, select `Delay Send Mute`. Draw the envelope so mute is off only for the word "then." Listen closely to the rhythm of both repeats and match their timing.
 
-> An alternative way of creating a delay throw is to automate the delay volume instead. Now that you can do it with muting try to create the same effect by automating the delay volume. This method gives you much more control over how the delay sounds. We'll get into automation more deeply in the next lesson.
+> You can also create a delay throw by automating delay volume instead of mute. Recreate the same effect with volume automation. This gives finer control over the sound. We will go deeper on automation in the next lesson.
 
 ## Coloristic and more extreme delays
 
-If we have extra time, let's check out these delay effects.
+If time allows, explore these delay effects.
 
 - [Chow Matrix](https://chowdsp.com/products.html)
 - [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)

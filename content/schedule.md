@@ -248,18 +248,15 @@ date: "2026-01-06"
 - More [reverb](../posts/week-12/reverb/)
 - talk about what you're thinking of doing for your lesson. 
 
-<!-- 
 ## Wednesday (4/1)
 
 - Listen to projects
-- [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/) 
-- didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
+<!-- - [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/) 
+- didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse -->
 
 ## Friday (4/3)
 
-- Volunteer for presentations next week, starting on Friday
-  - Two students each day 
-- Mixing with [Delays](../posts/week-14/delays/)
+- No class - Easter Break 
 
 > Presentation proposal due by midnight  
 
@@ -267,41 +264,46 @@ date: "2026-01-06"
 
 ## Monday
 
-- More [delay](../posts/week-15/more-delays) - third-party plugins
+- no class - Easter Break
 
 ## Wednesday
 
-- Group mixing project - each student works for 15 minutes or so until we complete a mix in class. 
+- Volunteer for presentations next week, starting on Friday
+  - Two students each day 
+- Mixing with [Delays](../posts/week-14/delays/)
 
+<!-- - Group mixing project - each student works for 15 minutes or so until we complete a mix in class.  -->
+
+<!-- 
 ## Friday
 
-- Karl
-- Owen
+- More [delay](../posts/week-15/more-delays) - third-party plugins
 
 # Week 14 (4/13)
 
 ## Monday
 
-- David
-- Cameron
+- Start? 
 
 ## Wednesday
 
-- Levi
-- Nick
+- Karl
+- Owen
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
 > Talk about final project
 
 ## Friday
 
-- No class - Easter
+- David
+- Cameron
 
 # Week 15 (4/20)
 
 ## Monday
 
-- This was easter holiday - what to do?? 
+- Levi
+- Nick
 
 ## Wednesday
 
