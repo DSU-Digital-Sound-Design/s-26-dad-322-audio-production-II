@@ -274,7 +274,6 @@ date: "2026-01-06"
 
 <!-- - Group mixing project - each student works for 15 minutes or so until we complete a mix in class.  -->
 
-<!-- 
 ## Friday
 
 - More [delay](../posts/week-15/more-delays) - third-party plugins
@@ -310,6 +309,7 @@ date: "2026-01-06"
 
 - Zakry 
 
+<!-- 
 ## Friday
 - [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
 - [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation)
