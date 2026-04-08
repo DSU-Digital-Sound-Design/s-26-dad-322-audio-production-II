@@ -283,33 +283,32 @@ date: "2026-01-06"
 
 ## Monday
 
-- Start? 
+- Alex
+- Shea 
 
 ## Wednesday
 
-- Karl
-- Owen
+- Dylan
+- Tavone 
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
 > Talk about final project
 
 ## Friday
 
-- David
-- Cameron
+- Emmet
+- Colby  
 
 # Week 15 (4/20)
 
 ## Monday
 
-- Levi
-- Nick
+- Millie
+- Justice 
 
 ## Wednesday
 
-- Short meeting - Undergraduate Research Presentations at 2 pm in the Science Center! 
-  - We'll talk about the next two classes
-  - Meeting to show progress on projects
+- Zakry 
 
 ## Friday
 - [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
