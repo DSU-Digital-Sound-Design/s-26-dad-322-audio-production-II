@@ -1,43 +1,109 @@
 ---
-title: "More on delays"
+title: "Delay Plugin Exploration"
 ---
 
-In this lesson, we'll look at our project from the reverb lesson and try to replace the reverb effects with delays.
+This class will work like a lab. We will compare several third-party delay plugins, listen for what each one does well, and talk through the results together. The goal is not to find one "best" delay, but to learn how different plugins shape repeats, tone, space, and movement.
 
-Many third-party delay plugins have unique features, so we'll spend some time installing some of them and exploring their parameters and presets.
+Use the project from the earlier delay lesson, or any short session with a few clear source tracks.
 
-Download the following plugins and install them. I have only listed cross-platform plugins here. Reference the website if you're looking for plugins that only run on Windows.
+> Download the delay project [here](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/EuEB1ZtogCZPg4foIeq3X3IBDKrU6LHAolNgZ2pBtSsRVg?e=dB9Hxj).
 
-Mixing delays:
+## Before Class
 
-- [Tempo Delay - Voxengo](https://www.voxengo.com/product/tempodelay/)
-- [Full Bucket Brigade Delay](https://www.fullbucket.de/music/fbdelay.html)
-- [GVST GDuckDly](https://www.gvst.co.uk/gduckdly.htm)
+Download and install **three delay plugins**. Choose at least:
 
-Creative delay effects:
+- **One more straightforward mixing delay**
+- **One analog-style or colored delay**
+- **One more experimental or creative delay**
 
-- [Ursa DSP - Lagrange](https://ursadsp.com/)
-- [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
-- [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
-- [Chow Matrix](https://chowdsp.com/products.html)
-- [Glitch Machines - Hysteresis](https://glitchmachines.com/products/hysteresis/)
-- [Soundhack - Delay Bundle](https://www.soundhack.com/freeware/)
-- [Rift Feedback delay](https://www.minimal.audio/products/rift-feedback-lite) - very interesting for comb filtering and tuned feedback
+Suggested plugins:
 
-> Download the mixing with delays project [here](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/EuEB1ZtogCZPg4foIeq3X3IBDKrU6LHAolNgZ2pBtSsRVg?e=dB9Hxj).
+- Mixing delays:
+  - [Tempo Delay - Voxengo](https://www.voxengo.com/product/tempodelay/)
+  - [Full Bucket Brigade Delay](https://www.fullbucket.de/music/fbdelay.html)
+  - [GVST GDuckDly](https://www.gvst.co.uk/gduckdly.htm)
+- Creative delays:
+  - [Ursa DSP - Lagrange](https://ursadsp.com/)
+  - [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
+  - [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+  - [Chow Matrix](https://chowdsp.com/products.html)
+  - [Glitch Machines - Hysteresis](https://glitchmachines.com/products/hysteresis/)
+  - [Soundhack - Delay Bundle](https://www.soundhack.com/freeware/)
+  - [Rift Feedback delay](https://www.minimal.audio/products/rift-feedback-lite)
 
-## Tone Delay
+If one of your plugins does not install correctly, choose another and keep going.
 
-Let's use a delay to get a more exciting tone on the acoustic guitar track. First, set up a delay send track. Use the `Full Bucket Brigade Delay` plugin and dial in a simple delay setting with no modulation. Experiment with very short delay time settings to get a comb-filtering effect. Next, add some feedback to intensify the tonal effect of the delay on the guitar track. Also, experiment with adding a bandpass filter on the delay send to filter out some of the harsh effects of the added feedback.
+## In-Class Exercise
 
-> Now try the same effect with the next guitar track.
+We will work through three kinds of delay and compare how different plugins handle them.
 
-## Sustain Delay
+### 1. Slapback / Blend Delay
 
-Let's use the electric guitar track and add some sustain to it. Pick a delay plugin that allows for tempo-synced delays. I'm using `Valhalla Freq Echo.` Set the project tempo correctly, then the delay time to sound musical with the guitar strumming rhythm. Try either 1/8 or 1/16 note delay times. Add a little bit of feedback. Then use the built-in EQ to focus the repeats only on the higher spectrum. Experiment with applying some frequency shifting.
+Choose a vocal, snare, or guitar track.
 
-## Blend Delay
+- Create a delay send.
+- Build a short slapback delay, usually around `30-80 ms`.
+- Filter the return so it blends into the source instead of sounding like a separate echo.
+- Try the same setup with at least **two different plugins**.
 
-Now experiment with using a delay to blend the drums folder. Create a delay send and send each drum to it. Create a slapback delay effect. A slapback delay has a short delay time but is not fast enough to produce comb filtering, usually 30-80 ms. Again EQ the return to get rid of unwanted low and high-frequency content.
+As you listen, ask:
 
-> Let's spend the rest of class exploring some more creative reverbs. With the time left, create a piece of music using whatever sonic material you want with one or more of the creative delay effects. We'll listen to everyone's when there are about 10 minutes left.
+- Which plugin blends most naturally?
+- Which one adds the most pleasing tone?
+- Which one gets harsh or muddy fastest?
+
+### 2. Tempo-Synced Sustain Delay
+
+Choose a guitar, synth, or vocal phrase.
+
+- Set the project tempo correctly.
+- Create a tempo-synced delay using values like `1/8` or `1/16`.
+- Add a little feedback so the repeats fill space without taking over.
+- Shape the repeats with EQ, filtering, or modulation.
+- Again, try the same basic idea with at least **two different plugins**.
+
+As you listen, ask:
+
+- Which plugin feels most musical?
+- Which plugin keeps the rhythm clearest?
+- Which one adds interesting color or movement?
+
+### 3. Tone / Creative Delay
+
+Choose a track that can handle a more obvious effect, such as acoustic guitar, a synth line, percussion, or spoken word.
+
+- For this section, focus on the more experimental plugins rather than the straightforward mixing delays.
+- Start with plugins such as [Ursa DSP - Lagrange](https://ursadsp.com/), [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/), [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/), [Chow Matrix](https://chowdsp.com/products.html), [Glitch Machines - Hysteresis](https://glitchmachines.com/products/hysteresis/), or [Rift Feedback delay](https://www.minimal.audio/products/rift-feedback-lite).
+- Use the plugin to transform the source into something more textural, resonant, unstable, or spacious than a normal echo.
+- Add feedback carefully.
+- Explore filtering, modulation, frequency shifting, or unusual routing if the plugin allows it.
+- Compare at least **two different plugins**.
+
+As you listen, ask:
+
+- Which plugin gives the most distinctive sound?
+- Which settings feel musical rather than gimmicky?
+- Where could this effect actually fit in a real production?
+
+## What To Keep Track Of
+
+As you work, make short notes on:
+
+- which three plugins you used
+- which delay type each plugin handled best
+- which plugin felt easiest to control
+- which plugin you would actually use in a mix
+
+## End-of-Class Share
+
+Near the end of class, we will compare results.
+
+Be ready to play:
+
+- one example of a delay that blended well in a mix
+- one example of a more creative delay sound
+- a short explanation of which plugin you preferred and why
+
+## Goal
+
+By the end of class, you should have a better sense of the difference between a delay that helps a mix sit together, a delay that adds sustain or rhythm, and a delay that becomes part of the sound design.
