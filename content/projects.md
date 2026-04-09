@@ -82,6 +82,59 @@ Complete a full mix of our class song. This project brings together all the tech
 | Listening notes (mains, Behritone, headphones) | 3 |
 | **Total** | **50** |
 
+# Final Project
+
+Create a final production with at least **15 audio tracks recorded in Charm Studios**. Use more than 15 tracks when the arrangement or recording method requires it. Some instruments are best recorded with multiple microphones, so thoughtful multi-miking can increase your track count in a meaningful way. Acoustic guitar, piano, and drums are obvious examples, but record them that way only when it serves the song.
+
+The focus of this project is to make something of your own and be creative. Whereas the [Class Song Mix](#mixing-2-class-song-mix) asked you to collaborate with your classmates on a shared song, this project should be built around your own musical ideas. You may write and produce an original song, or you may record and produce a cover if you prefer.
+
+This project should bring together the same workflow we have practiced all semester: solid source recording, careful editing, and a finished mix that shows intention.
+
+You may use your project from Recording Sessions if you are in that class, as long as you complete the production and mix to the standards of this course.
+
+## Due Date
+
+Turn in your project to D2L by **May 1st**.
+
+## Deliverables
+
+- A consolidated Reaper project file
+- A final stereo mix bounce
+- Short production notes describing your recording setup, major editing decisions, and mix approach
+
+## Requirements
+
+1. **Track count and recording**
+   - Record at least 15 audio tracks in Charm Studios (unless special permission given).
+   - The 15-track minimum refers to recorded audio tracks, not MIDI or virtual instruments.
+   - Use the recording process intentionally: mic choice, placement, gain staging, and performance capture all matter.
+   - If a part needs a better take, use techniques from [Takes and comping](../posts/week-4/takes-comping/) and [Punching in](../posts/week-4/punching-in/).
+2. **Session organization**
+   - Label and color-code tracks.
+   - Use folders, bussing, and clear routing where needed.
+   - Add markers or regions for song sections as in [Tempo mapping in Reaper](../posts/week-3/monday/timing-and-tuning/).
+3. **Editing and cleanup**
+   - Remove unnecessary audio and clean up starts, endings, and noise between phrases.
+   - Use high-pass filtering where it improves clarity, as described in [Building the Raw Balance](../posts/week-5/balance/).
+   - Tighten timing where needed with the same judgment used in our editing projects, including [Drum quantization](../posts/week-3/wednesday/) when relevant.
+   - Use pitch correction when it improves the performance, drawing on [Tuning and vocal aligning](../posts/week-4/tuning/).
+4. **Mix balance and tone shaping**
+   - Build a balanced mix with careful fader placement before reaching for heavy processing.
+   - Use panning to give each part a place in the stereo field ([Panning](../posts/week-5/panning/)).
+   - Use EQ for both cleanup and tone shaping ([Using EQ](../posts/week-8/using-eq/)).
+   - Use compression when it solves a real problem or improves the musical feel ([Compression](../posts/week-5/compression/), [Buss compression](../posts/week-6/buss-compression/)).
+5. **Depth, space, and movement**
+   - Create a sense of depth and space with reverb and delay sends ([Mixing with reverb](../posts/week-9/mixing-with-reverb/), [Reverb](../posts/week-12/reverb/), [Delays](../posts/week-14/delays/)).
+   - If the arrangement benefits from it, use automation to shape energy, transitions, and emphasis ([Envelopes & Automation](../posts/week-15/envelopes-automation/)).
+
+## Guidance
+
+- Your grade will reflect the quality of the recording, editing, mix, and overall production choices.
+- Your project does not need to use every single tool we covered this semester. Part of the assignment is deciding what the song actually needs.
+- Multi-mic recording should be purposeful, not just a way to inflate the track count.
+- Focus first on getting strong sounds during recording. Mixing cannot fully rescue weak source material.
+- Listen on multiple systems before turning in your final version, just as you did in earlier mixing work.
+
 <!--
 # Project 1 - preliminary mix tasks
 
