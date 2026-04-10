@@ -278,6 +278,8 @@ date: "2026-01-06"
 
 - More [delay](../posts/week-15/more-delays) - third-party plugins
 
+> Talk about [final project](../projects/#final-project/) 
+
 # Week 14 (4/13)
 
 ## Monday
@@ -291,7 +293,6 @@ date: "2026-01-06"
 - Tavone 
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
-> Talk about final project
 
 ## Friday
 
