@@ -285,7 +285,6 @@ date: "2026-01-06"
 ## Monday
 
 - Alex
-- Shea 
 
 ## Wednesday
 
@@ -309,6 +308,40 @@ date: "2026-01-06"
 ## Wednesday
 
 - Zakry 
+- Shea 
+
+## Friday
+
+- Final project work day
+  - Show your current session progress for the final project.
+  - Confirm your recording plan and make sure you are on track for at least 15 recorded audio tracks from Charm Studios.
+  - Finish any remaining recording, comping, timing, tuning, and cleanup.
+  - Build the mix with balance, panning, EQ, compression, and effects.
+  - Start your short production notes so you are not writing them at the last minute.
+
+# Week 16 (4/27)
+
+## Monday 
+
+- Final project progress check
+  - Play your current mix for the class.
+  - Show your Reaper session and confirm that you have at least 15 recorded audio tracks from Charm Studios.
+  - Check track labels, colors, folders, bussing, and markers/regions.
+  - Make a clear list of what still needs to be recorded, edited, or fixed in the mix.
+
+## Wednesday
+
+- No class - Undergraduate Research Projects Presentations in the Science Center Lobby. Come support your classmates!
+
+## Friday 
+
+- Final project progress check and wrap-up
+  - Play the latest version of your mix.
+  - Show your automation, reverb/delay choices, and any major mix revisions.
+  - Export your final stereo mix bounce.
+  - Consolidate your Reaper project and finish your production notes.
+
+> Final project due to D2L by **May 6th**
 
 <!-- 
 ## Friday
